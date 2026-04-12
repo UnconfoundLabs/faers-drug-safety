@@ -67,6 +67,8 @@ Disproportionality analysis — comparing how often an adverse event is reported
 
 **Blood glucose changes** — Both increased (941 reports, PRR = 5.6) and decreased (276, PRR = 7.8). For a drug class that modulates glucose, swings in both directions are being reported.
 
+**Optic ischaemic neuropathy (NAION)** — 86 reports (PRR = 33.5). This is an emerging and potentially serious signal. A 2024 study in *JAMA Ophthalmology* (Hathaway et al.) found semaglutide users had a significantly elevated risk of non-arteritic anterior ischaemic optic neuropathy (HR ~4.3) in a retrospective cohort analysis. NAION can cause sudden, irreversible vision loss. The mechanism is unclear but may relate to rapid weight loss, hemodynamic changes, or direct vascular effects. The FDA is actively monitoring this signal.
+
 ![Safety Signals](../output/figures/05_safety_signals.png)
 *Figure 5: Strongest safety signals by Reporting Odds Ratio (ROR), with 95% confidence intervals.*
 

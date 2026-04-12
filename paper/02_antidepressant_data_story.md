@@ -37,7 +37,7 @@ The most striking finding is also the most underreported in clinical practice.
 
 Read those PRR values again. Genital anaesthesia is reported **458 times more often** for antidepressants than for other drugs. These are not background noise. These are among the strongest disproportionality signals in the entire FAERS database.
 
-SSRI-induced sexual dysfunction affects an estimated 40–65% of patients, yet it is rarely volunteered by patients and infrequently asked about by clinicians. The condition can persist after discontinuation — a phenomenon known as Post-SSRI Sexual Dysfunction (PSSD) that has only recently gained recognition.
+Prospective studies using direct inquiry find SSRI-induced sexual dysfunction in 40–73% of patients (Montejo et al.), far higher than the 15–25% reported in clinical trials that relied on spontaneous reporting. The condition can persist after discontinuation — a phenomenon known as Post-SSRI Sexual Dysfunction (PSSD) that the European Medicines Agency formally recognized in 2019, now with over 24 PubMed-indexed publications.
 
 The FAERS data suggests that when patients do report sexual side effects, the severity is profound — not just "decreased libido" but complete loss of genital sensation and orgasmic function. These reports are disproportionately from patients who felt their clinical team dismissed or minimized their symptoms.
 
@@ -52,7 +52,7 @@ The FAERS data suggests that when patients do report sexual side effects, the se
 
 A PRR of 1,450 is extraordinary. This is by far the strongest signal in the entire antidepressant dataset. Discontinuation syndrome — dizziness, nausea, "brain zaps," irritability, insomnia, and flu-like symptoms — occurs when patients stop or rapidly taper their antidepressant.
 
-For decades, the psychiatric establishment maintained that antidepressants were "not addictive" and that discontinuation effects were mild and brief. Recent research has challenged this narrative. A 2019 systematic review in *Addictive Behaviors* found that discontinuation symptoms occurred in approximately 56% of patients, with nearly half experiencing severe symptoms.
+For decades, the psychiatric establishment maintained that antidepressants were "not addictive" and that discontinuation effects were mild and brief. Recent research has challenged this narrative. Davies and Read (2019, *Addictive Behaviors*) reviewed 14 studies and found discontinuation symptoms in approximately 56% of patients, with 46% rating symptoms as severe. A 2024 meta-analysis in *The Lancet Psychiatry* provided updated incidence figures confirming the scope of the problem.
 
 The FAERS data, though limited by spontaneous reporting, aligns with the emerging picture: for some patients, getting off antidepressants is harder than getting on them.
 

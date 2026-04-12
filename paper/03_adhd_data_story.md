@@ -62,11 +62,11 @@ Stimulants are dopamine and norepinephrine reuptake inhibitors. Their psychiatri
 - **Drug abuse** — 93 reports (PRR = 10.8)
 - **Intentional overdose** — not in the top signals but present
 
-**The cardiac signal** is the most clinically concerning:
+**The cardiac signal** requires careful interpretation:
 - **Cardiac valve disease** — 57 reports (PRR = 80.5)
 - **Palpitations** — 60 reports (PRR = 3.7)
 
-A PRR of 80.5 for cardiac valve disease is a strong signal that warrants investigation. While stimulant-associated cardiovascular effects (tachycardia, hypertension) are well-documented, valvular disease is less expected and could reflect long-term use patterns or confounding.
+A PRR of 80.5 for cardiac valve disease is statistically striking — but likely reflects confounding rather than a true pharmacological signal. Valvulopathy is mechanistically linked to serotonin 5-HT2B receptor agonism (as seen with fenfluramine/phentermine, the "fen-phen" diet drugs). Stimulants are primarily dopaminergic/noradrenergic and lack significant 5-HT2B activity. The signal likely reflects historical conflation with appetite suppressants, co-prescribed serotonergic agents, or stimulant-induced hypertension in patients with pre-existing valve pathology. This is a reminder that disproportionality signals require mechanistic plausibility — high PRR alone does not equal causation.
 
 **Cognitive effects** form a distinct cluster:
 - **Disturbance in attention** — 101 reports (PRR = 15.6)
@@ -97,11 +97,11 @@ ADHD medication adverse event data tells two stories simultaneously:
 
 **Story 1: The Access Crisis.** Over 20% of ADHD adverse event reports are about supply, affordability, and substitution — not pharmacology. The FAERS database was designed to capture drug safety signals, but patients have turned it into a chronicle of a system that cannot reliably deliver the medications they need. When "I can't get my medication" is the second most reported event for an entire drug class, the system has a problem that no pharmacovigilance algorithm can solve.
 
-**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 80.5) is the most clinically actionable finding and warrants further investigation. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
+**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 80.5), while statistically striking, likely reflects confounding with historical appetite suppressants (fenfluramine) or co-prescribed serotonergic drugs rather than a direct stimulant effect. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
 
 **For clinicians:**
 - When a patient reports that their medication "stopped working," ask about generic substitution before changing the prescription
-- The cardiac valve disease signal deserves echocardiographic monitoring in long-term stimulant users
+- The cardiac valve disease signal likely reflects confounding, but palpitations and hypertension remain real cardiovascular concerns with stimulants
 - Psychiatric side effects (irritability, aggression, suicidal ideation) require proactive screening, especially in pediatric patients
 
 **For policymakers:**
