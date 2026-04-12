@@ -62,11 +62,26 @@ Stimulants are dopamine and norepinephrine reuptake inhibitors. Their psychiatri
 - **Drug abuse** — 93 reports (PRR = 10.8)
 - **Intentional overdose** — not in the top signals but present
 
-**The cardiac signal** requires careful interpretation:
+**The cardiac valve signal** is the most instructive finding in this dataset — not for what it says about pharmacology, but for what it reveals about how safety signals propagate.
+
 - **Cardiac valve disease** — 57 reports (PRR = 80.5)
 - **Palpitations** — 60 reports (PRR = 3.7)
 
-A PRR of 80.5 for cardiac valve disease is statistically striking — but likely reflects confounding rather than a true pharmacological signal. Valvulopathy is mechanistically linked to serotonin 5-HT2B receptor agonism (as seen with fenfluramine/phentermine, the "fen-phen" diet drugs). Stimulants are primarily dopaminergic/noradrenergic and lack significant 5-HT2B activity. The signal likely reflects historical conflation with appetite suppressants, co-prescribed serotonergic agents, or stimulant-induced hypertension in patients with pre-existing valve pathology. This is a reminder that disproportionality signals require mechanistic plausibility — high PRR alone does not equal causation.
+A PRR of 80.5 for cardiac valve disease demands investigation. When we examined the 57 cases individually, we found:
+
+- **All 57 are from France.** Not a single case from the U.S. or any other country.
+- **All 57 cite the same publication:** Ayme-Dietrich et al., "Use of methylphenidate and reporting of valvular heart disease: Global pharmacovigilance analysis in children and adults," *Pharmacoepidemiology and Drug Safety*, 2024.
+- **All 57 were submitted by generic methylphenidate manufacturers** (Mylan, Strides, Aurobindo, Ranbaxy) within a two-month window (July–September 2024).
+- **All 57 are manufacturer expedited reports** — regulatory filings triggered by the publication, not independent clinical observations.
+- **53 of the 57 list methylphenidate specifically** (not amphetamine). The remaining 4 are Concerta (methylphenidate extended-release) and dexmethylphenidate.
+
+This is textbook **literature-stimulated reporting**. When a pharmacovigilance study is published flagging a potential signal, manufacturers are required by regulation to review their databases and submit any matching cases to the FDA. Those 57 cases likely represent the same underlying VigiBase data being re-reported into FAERS, not 57 independent patients who developed valve disease.
+
+The underlying study (Ayme-Dietrich et al.) did find a statistical signal in the WHO's global VigiBase, but flagged it as **needing further investigation**, not as a confirmed causal association. The proposed mechanism — indirect serotonergic effects from catecholamine elevation — has **weak but not dismissible** biological plausibility. Methylphenidate is primarily dopaminergic/noradrenergic and lacks the direct 5-HT2B receptor agonism that drives the established fenfluramine/ergot valvulopathy pathway.
+
+Clinically, the cases show real pathology: mitral valve incompetence (24 cases), mitral valve prolapse (7), aortic valve incompetence (4). The patients were relatively young (median age 21, range 6–57). Two deaths occurred.
+
+**The bottom line:** This signal is real in the pharmacovigilance data but is not yet causally established. It requires dedicated epidemiological studies — ideally large cohort studies comparing valve disease incidence in methylphenidate users versus non-users, controlling for age, co-medications, and underlying conditions. What we can say with certainty is that the PRR of 80.5 dramatically overstates the clinical signal because of the concentrated batch of literature-stimulated reports.
 
 **Cognitive effects** form a distinct cluster:
 - **Disturbance in attention** — 101 reports (PRR = 15.6)
@@ -97,11 +112,11 @@ ADHD medication adverse event data tells two stories simultaneously:
 
 **Story 1: The Access Crisis.** Over 20% of ADHD adverse event reports are about supply, affordability, and substitution — not pharmacology. The FAERS database was designed to capture drug safety signals, but patients have turned it into a chronicle of a system that cannot reliably deliver the medications they need. When "I can't get my medication" is the second most reported event for an entire drug class, the system has a problem that no pharmacovigilance algorithm can solve.
 
-**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 80.5), while statistically striking, likely reflects confounding with historical appetite suppressants (fenfluramine) or co-prescribed serotonergic drugs rather than a direct stimulant effect. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
+**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 80.5) is a case study in pharmacovigilance methodology: all 57 reports trace to a single French publication and batch manufacturer filings, inflating the PRR far beyond the true clinical signal. The association is under investigation but not confirmed. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
 
 **For clinicians:**
 - When a patient reports that their medication "stopped working," ask about generic substitution before changing the prescription
-- The cardiac valve disease signal likely reflects confounding, but palpitations and hypertension remain real cardiovascular concerns with stimulants
+- The cardiac valve disease signal (57 cases, all from one study) warrants monitoring but is not yet causally established — echocardiographic surveillance in long-term methylphenidate users may be prudent pending further research
 - Psychiatric side effects (irritability, aggression, suicidal ideation) require proactive screening, especially in pediatric patients
 
 **For policymakers:**
