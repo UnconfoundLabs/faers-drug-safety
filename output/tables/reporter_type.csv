@@ -1,0 +1,19 @@
+drug_class,reporter,n
+ADHD,Consumer,1708
+ADHD,Other health professional,784
+ADHD,Physician,447
+ADHD,Unknown,171
+ADHD,Pharmacist,147
+ADHD,Lawyer,16
+ANTIDEPRESSANT,Consumer,4992
+ANTIDEPRESSANT,Physician,2306
+ANTIDEPRESSANT,Other health professional,1798
+ANTIDEPRESSANT,Pharmacist,797
+ANTIDEPRESSANT,Unknown,246
+ANTIDEPRESSANT,Lawyer,6
+GLP1,Consumer,26018
+GLP1,Physician,1596
+GLP1,Other health professional,1397
+GLP1,Pharmacist,651
+GLP1,Lawyer,358
+GLP1,Unknown,251

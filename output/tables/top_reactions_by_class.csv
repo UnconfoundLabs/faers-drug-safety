@@ -1,0 +1,61 @@
+drug_class,reaction,n,pct,rank
+ADHD,Drug ineffective,663,6.1,1
+ADHD,Product substitution issue,237,2.18,2
+ADHD,Product availability issue,218,2.01,3
+ADHD,Headache,196,1.8,4
+ADHD,Fatigue,171,1.57,5
+ADHD,Anxiety,151,1.39,6
+ADHD,Nausea,148,1.36,7
+ADHD,Insomnia,138,1.27,8
+ADHD,Toxicity to various agents,133,1.22,9
+ADHD,Off label use,124,1.14,10
+ADHD,Product use issue,114,1.05,11
+ADHD,Inability to afford medication,111,1.02,12
+ADHD,Feeling abnormal,106,0.98,13
+ADHD,Somnolence,105,0.97,14
+ADHD,Disturbance in attention,101,0.93,15
+ADHD,Therapeutic response changed,100,0.92,16
+ADHD,Depression,99,0.91,17
+ADHD,Treatment failure,98,0.9,18
+ADHD,Decreased appetite,95,0.87,19
+ADHD,Drug abuse,93,0.86,20
+ANTIDEPRESSANT,Drug ineffective,726,1.96,1
+ANTIDEPRESSANT,Nausea,715,1.93,2
+ANTIDEPRESSANT,Dizziness,538,1.45,3
+ANTIDEPRESSANT,Headache,520,1.41,4
+ANTIDEPRESSANT,Anxiety,518,1.4,5
+ANTIDEPRESSANT,Fatigue,457,1.24,6
+ANTIDEPRESSANT,Drug interaction,446,1.21,7
+ANTIDEPRESSANT,Toxicity to various agents,418,1.13,8
+ANTIDEPRESSANT,Insomnia,353,0.95,9
+ANTIDEPRESSANT,Somnolence,327,0.88,10
+ANTIDEPRESSANT,Off label use,323,0.87,11
+ANTIDEPRESSANT,Suicidal ideation,321,0.87,12
+ANTIDEPRESSANT,Intentional overdose,318,0.86,13
+ANTIDEPRESSANT,Depression,315,0.85,14
+ANTIDEPRESSANT,Feeling abnormal,294,0.79,15
+ANTIDEPRESSANT,Suicide attempt,291,0.79,16
+ANTIDEPRESSANT,Tremor,282,0.76,17
+ANTIDEPRESSANT,Vomiting,282,0.76,18
+ANTIDEPRESSANT,Diarrhoea,281,0.76,19
+ANTIDEPRESSANT,Serotonin syndrome,266,0.72,20
+GLP1,Incorrect dose administered,5071,6.85,1
+GLP1,Nausea,3189,4.31,2
+GLP1,Injection site pain,2702,3.65,3
+GLP1,Vomiting,1969,2.66,4
+GLP1,Diarrhoea,1798,2.43,5
+GLP1,Off label use,1789,2.42,6
+GLP1,Extra dose administered,1773,2.4,7
+GLP1,Constipation,1242,1.68,8
+GLP1,Accidental underdose,1046,1.41,9
+GLP1,Injection site haemorrhage,997,1.35,10
+GLP1,Decreased appetite,954,1.29,11
+GLP1,Blood glucose increased,941,1.27,12
+GLP1,Product dose omission issue,860,1.16,13
+GLP1,Abdominal pain upper,840,1.13,14
+GLP1,Injection site erythema,797,1.08,15
+GLP1,Weight decreased,771,1.04,16
+GLP1,Fatigue,751,1.01,17
+GLP1,Weight increased,738,1.0,18
+GLP1,Impaired gastric emptying,733,0.99,19
+GLP1,Inappropriate schedule of product administration,709,0.96,20

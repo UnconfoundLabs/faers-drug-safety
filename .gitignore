@@ -1,0 +1,22 @@
+# Data (too large for git)
+data/
+*.zip
+*.db
+*.duckdb
+
+# Raw FAERS files
+*.sas7bdat
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

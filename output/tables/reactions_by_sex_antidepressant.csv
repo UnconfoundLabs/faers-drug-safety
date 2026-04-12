@@ -1,0 +1,1151 @@
+sex,reaction,n
+F,Nausea,494
+F,Dizziness,331
+F,Headache,304
+F,Drug ineffective,297
+F,Anxiety,247
+F,Fatigue,243
+F,Drug interaction,216
+F,Toxicity to various agents,204
+F,Diarrhoea,196
+F,Vomiting,194
+F,Somnolence,192
+F,Suicidal ideation,179
+F,Tremor,178
+F,Off label use,175
+F,Intentional overdose,173
+F,Insomnia,167
+F,Suicide attempt,164
+F,Depression,153
+F,Feeling abnormal,145
+F,Hyperhidrosis,145
+F,Serotonin syndrome,129
+F,Malaise,115
+F,Illness,112
+F,Constipation,105
+F,Weight increased,103
+F,Dyspnoea,102
+F,Electrocardiogram QT prolonged,102
+F,Fall,99
+F,Confusional state,97
+F,Asthenia,95
+F,Rash,93
+F,Withdrawal syndrome,92
+F,Condition aggravated,90
+F,Overdose,90
+F,Palpitations,87
+F,Hypotension,85
+F,Dry mouth,82
+F,Blood pressure increased,80
+F,Hypertension,79
+F,Pruritus,78
+F,Pain,77
+F,Tachycardia,76
+F,Weight decreased,73
+F,Poisoning deliberate,72
+F,Maternal exposure during pregnancy,72
+F,Hyponatraemia,72
+F,Vision blurred,71
+F,Product use issue,71
+F,Seizure,71
+F,Abdominal pain upper,71
+F,Completed suicide,69
+F,Inappropriate schedule of product administration,69
+F,Abdominal pain,69
+F,Product use in unapproved indication,68
+F,Decreased appetite,67
+F,Abdominal discomfort,66
+F,Brain fog,66
+F,Tinnitus,65
+F,Migraine,65
+F,Disturbance in attention,63
+F,Therapeutic product effect incomplete,63
+F,Agitation,63
+F,Coma,63
+F,Arthralgia,63
+F,Drug intolerance,62
+F,Nightmare,62
+F,Hot flush,60
+F,Muscular weakness,60
+F,Contusion,58
+F,Sleep disorder,57
+F,Multiple acyl-coenzyme A dehydrogenase deficiency,57
+F,Pyrexia,56
+F,Loss of consciousness,56
+F,Depressed mood,55
+F,Crying,55
+F,Depressed level of consciousness,55
+F,Drug abuse,55
+F,Panic attack,55
+F,Muscle spasms,55
+F,Memory impairment,54
+F,Cognitive disorder,54
+F,Hypoaesthesia,53
+F,Vertigo,52
+F,Heart rate increased,52
+F,Drug hypersensitivity,52
+F,Therapy interrupted,51
+F,Paraesthesia,51
+F,Product dose omission issue,50
+F,Urticaria,50
+F,Cardiac arrest,48
+F,Exposure during pregnancy,48
+F,Balance disorder,48
+F,Acute kidney injury,48
+F,Hypersensitivity,47
+F,Alopecia,46
+F,Visual impairment,46
+F,Dyspepsia,46
+F,Intentional product misuse,45
+F,Myalgia,45
+F,Patient dissatisfaction with treatment,45
+F,Foetal exposure during pregnancy,45
+F,Hallucination,45
+F,Urinary retention,44
+F,Abnormal dreams,44
+F,Chest pain,44
+F,Product substitution issue,43
+F,Bruxism,43
+F,Sexual dysfunction,43
+F,Cough,42
+F,Amnesia,41
+F,Product odour abnormal,41
+F,Abdominal distension,41
+F,Irritability,41
+F,Mania,40
+F,Mental disorder,40
+F,Pain in extremity,39
+F,Gait disturbance,39
+F,Loss of personal independence in daily activities,38
+F,Loss of libido,38
+F,Restless legs syndrome,38
+F,Asthma,37
+F,Back pain,36
+F,Death,36
+F,Drug withdrawal syndrome,36
+F,Anger,36
+F,Hepatic cytolysis,36
+F,Dysphagia,35
+F,Electric shock sensation,35
+F,Mydriasis,35
+F,Poor quality sleep,34
+F,Gastrointestinal disorder,34
+F,Feeling hot,34
+F,Reversible cerebral vasoconstriction syndrome,34
+F,Night sweats,33
+F,Nasopharyngitis,33
+F,Wrong technique in product usage process,33
+F,Chills,33
+F,COVID-19,32
+F,Disorientation,32
+F,Pneumonia,32
+F,Intentional product use issue,31
+F,Restlessness,31
+F,Peripheral swelling,31
+F,Muscle twitching,30
+F,Syncope,30
+F,Adverse drug reaction,30
+F,Therapy cessation,29
+F,Anorgasmia,29
+F,Medication error,29
+F,Hunger,28
+F,Erythema,28
+F,Gastrooesophageal reflux disease,28
+F,Sensory disturbance,27
+F,Metabolic acidosis,27
+F,Rhabdomyolysis,27
+F,Swelling face,27
+F,Dyskinesia,27
+F,Myopathy,27
+F,Lactic acidosis,27
+F,Colitis microscopic,26
+F,Stress,26
+F,Emotional disorder,26
+F,Oropharyngeal pain,26
+F,Extrapyramidal disorder,26
+F,Flushing,26
+F,Generalised tonic-clonic seizure,26
+F,Inappropriate antidiuretic hormone secretion,25
+F,Dysgeusia,25
+F,Therapeutic product effect decreased,25
+F,Encephalopathy,25
+F,Cardiogenic shock,24
+F,Apathy,24
+F,Derealisation,24
+F,Underdose,24
+F,Premature baby,24
+F,Drug-induced liver injury,24
+F,Burning sensation,24
+F,Sedation,24
+F,Heavy menstrual bleeding,23
+F,Feeling jittery,22
+F,Lethargy,22
+F,Influenza,22
+F,Subarachnoid haemorrhage,21
+F,Hypoglycaemia,21
+F,Nonspecific reaction,21
+F,Mood swings,21
+F,Drug effect less than expected,21
+F,Labelled drug-drug interaction issue,21
+F,Chest discomfort,20
+F,Electrocardiogram QRS complex prolonged,20
+F,Dissociation,20
+F,Intentional underdose,20
+F,Tardive dyskinesia,20
+F,Drug ineffective for unapproved indication,20
+F,Pain in jaw,20
+F,Intentional self-injury,20
+F,Status epilepticus,20
+F,Hypersomnia,20
+F,Unevaluable event,20
+F,Middle insomnia,19
+F,Hepatic enzyme increased,19
+F,Flatulence,19
+F,Dry eye,19
+F,Rash erythematous,19
+F,Emotional distress,19
+F,Brain injury,19
+F,Unresponsive to stimuli,19
+F,Thirst,18
+F,Product prescribing issue,18
+F,Lip swelling,18
+F,Treatment noncompliance,18
+F,Presyncope,18
+F,Akathisia,18
+F,Increased appetite,18
+F,Eye pain,18
+F,Contraindicated product administered,18
+F,Dyspnoea exertional,18
+F,Speech disorder,18
+F,Vaginal haemorrhage,18
+F,"Hallucination, auditory",18
+F,Eye swelling,18
+F,Antidepressant discontinuation syndrome,18
+F,Therapeutic response unexpected,18
+F,Torsade de pointes,18
+F,Peripheral coldness,18
+F,Fibromyalgia,18
+F,Mood altered,17
+F,Therapy non-responder,17
+F,Bradycardia,17
+F,Suicidal behaviour,17
+F,Gastritis,17
+F,Productive cough,17
+F,Acne,17
+F,Joint swelling,17
+F,Oedema peripheral,17
+F,Anhedonia,17
+F,Product prescribing error,17
+F,Neuropathy peripheral,17
+F,Cholestasis,17
+F,Ventricular tachycardia,17
+F,Urinary tract infection,17
+F,Food craving,17
+F,Mental impairment,17
+F,Blood pressure decreased,16
+F,Intermenstrual bleeding,16
+F,Areflexia,16
+F,"Hallucination, visual",16
+F,Aggression,16
+F,Major depression,16
+F,Impaired work ability,16
+F,Drug level increased,16
+F,Crohn's disease,16
+F,Nervous system disorder,16
+F,Bezoar,16
+F,Dehydration,15
+F,Mental status changes,15
+F,Agranulocytosis,15
+F,Euphoric mood,15
+F,Altered state of consciousness,15
+F,Haemodynamic instability,15
+F,Nervousness,15
+F,Trismus,15
+F,Ventricular fibrillation,15
+F,Paranoia,15
+F,Neck pain,15
+F,Maternal exposure during breast feeding,15
+F,Fear,15
+F,Toxic epidermal necrolysis,15
+F,Psychotic disorder,15
+F,Cerebrovascular accident,14
+F,Polyuria,14
+F,Drug titration error,14
+F,Lower respiratory tract infection,14
+F,Autism spectrum disorder,14
+F,Haematoma,14
+F,Rheumatoid arthritis,14
+F,Sopor,14
+F,Menstruation irregular,14
+F,Upper respiratory tract infection,14
+F,Infection,14
+F,Product residue present,14
+F,Thrombocytopenia,14
+F,Delirium,14
+F,Eczema,14
+F,Rhinorrhoea,14
+F,Insurance issue,14
+F,Musculoskeletal stiffness,14
+F,Incorrect dose administered,14
+F,Renal impairment,14
+F,Neuralgia,13
+F,Blood potassium decreased,13
+F,Cardiotoxicity,13
+F,Cardio-respiratory arrest,13
+F,Myoclonus,13
+F,Sleep terror,13
+F,Emotional poverty,13
+F,Alanine aminotransferase increased,13
+F,No adverse event,13
+F,Feeling of despair,13
+F,Inability to afford medication,13
+F,Body temperature increased,13
+F,Temporomandibular pain and dysfunction syndrome,13
+F,Blood creatine phosphokinase increased,13
+F,Urinary incontinence,13
+F,Electrocardiogram abnormal,13
+F,Mitochondrial myopathy acquired,13
+F,Product dose omission in error,13
+F,Hospitalisation,13
+F,Pollakiuria,13
+F,Limb injury,13
+F,Abnormal behaviour,13
+F,Rash pruritic,13
+F,Head discomfort,13
+F,Throat irritation,13
+F,Sinus bradycardia,13
+F,Muscle rigidity,13
+F,Respiratory depression,13
+F,Circulatory collapse,13
+F,Sinus tachycardia,12
+F,Blood pressure systolic increased,12
+F,Hypokalaemia,12
+F,Septic shock,12
+F,Hypoxia,12
+F,Ill-defined disorder,12
+F,Skin burning sensation,12
+F,Bradyphrenia,12
+F,Pneumonia aspiration,12
+F,Swollen tongue,12
+F,Formication,12
+F,Arrhythmia,12
+F,Bursitis,12
+F,Drug use disorder,12
+F,Depersonalisation/derealisation disorder,12
+F,Dysarthria,12
+F,Diabetes mellitus,12
+F,Discomfort,12
+F,Obstructive airways disorder,12
+F,Hypophagia,12
+F,Energy increased,12
+F,Multiple sclerosis,12
+F,Respiratory failure,12
+F,Accidental overdose,12
+F,Photosensitivity reaction,12
+F,Blood cholesterol increased,12
+F,Cerebral disorder,12
+F,Abortion spontaneous,12
+F,Coeliac disease,12
+F,Psoriasis,12
+F,Self-destructive behaviour,12
+F,Delusion,12
+F,Lipid metabolism disorder,12
+F,Hepatic failure,11
+F,Infusion related reaction,11
+F,Acute generalised exanthematous pustulosis,11
+F,Prescribed overdose,11
+F,Gastrointestinal haemorrhage,11
+F,Dysuria,11
+F,Intentional dose omission,11
+F,Neuroleptic malignant syndrome,11
+F,Pallor,11
+F,Pulmonary embolism,11
+F,Hyperreflexia,11
+F,Retching,11
+F,Micturition urgency,11
+F,Rectal haemorrhage,11
+F,Epistaxis,11
+F,Hepatocellular injury,11
+F,Menstruation delayed,11
+F,Mixed liver injury,11
+F,Dystonia,11
+F,Hepatic steatosis,11
+F,Self-injurious ideation,11
+F,Viral infection,11
+F,Disease recurrence,11
+F,Respiratory arrest,11
+F,Eructation,11
+F,Influenza like illness,11
+F,Hypoacusis,11
+F,Joint stiffness,11
+F,Angioedema,11
+F,Adverse event,11
+F,Sinusitis,10
+F,Female orgasmic disorder,10
+F,Gastrointestinal pain,10
+F,Aphasia,10
+F,Product availability issue,10
+F,Heart rate decreased,10
+F,Libido decreased,10
+F,Full blood count abnormal,10
+F,Poisoning,10
+F,Glomerular filtration rate decreased,10
+F,Diplopia,10
+F,Therapy change,10
+F,Thinking abnormal,10
+F,Hypoaesthesia oral,10
+F,Wheezing,10
+F,Hyperprolactinaemia,10
+F,Dysphonia,10
+F,Scar,10
+F,Blood iron decreased,10
+F,Product administration error,10
+F,Anaphylactic reaction,10
+F,Initial insomnia,10
+F,Negative thoughts,10
+F,Acute hepatic failure,10
+F,Impaired driving ability,10
+F,Osteoarthritis,10
+F,Personality change,10
+F,Movement disorder,10
+F,Petit mal epilepsy,10
+F,Leukopenia,10
+F,Oxygen saturation decreased,10
+F,Hypokinesia,10
+F,Stress cardiomyopathy,10
+F,Treatment failure,10
+F,Neutropenia,10
+F,Arthropathy,10
+F,Cardiomyopathy,10
+F,Limb discomfort,10
+F,Breast pain,10
+F,Ischaemic stroke,9
+F,Tension headache,9
+F,Concussion,9
+F,Hypothyroidism,9
+F,Brain death,9
+F,Paraesthesia oral,9
+F,Menopause,9
+F,Irritable bowel syndrome,9
+F,Haematemesis,9
+F,Aspiration,9
+F,Pancytopenia,9
+F,Haemorrhage,9
+F,Psychomotor hyperactivity,9
+F,Blood creatinine increased,9
+F,Myocardial infarction,9
+F,Drug dependence,9
+F,Faeces discoloured,9
+F,Taste disorder,9
+F,Obesity,9
+F,Stomatitis,9
+F,Photophobia,9
+F,Product dispensing error,9
+F,Impaired healing,9
+F,Lymphadenopathy,9
+F,Intracranial pressure increased,9
+F,Dysstasia,9
+F,Feeding disorder,9
+F,Product taste abnormal,9
+F,Live birth,9
+F,Organ failure,9
+F,Food allergy,9
+F,Renal failure,9
+F,Tongue disorder,9
+F,Cardiac failure,9
+F,Immunodeficiency,9
+F,Tic,9
+F,Metabolic disorder,9
+F,Ataxia,9
+F,Skin disorder,9
+F,Personality disorder,9
+F,Atrial fibrillation,9
+F,Eye disorder,8
+F,Clonus,8
+F,Acute myocardial infarction,8
+F,Therapeutic response decreased,8
+F,Feeling of body temperature change,8
+F,Nocturia,8
+F,Sputum discoloured,8
+F,Ear discomfort,8
+F,Frustration tolerance decreased,8
+F,Cataract,8
+F,Fluid retention,8
+F,Blood glucose increased,8
+F,Panic reaction,8
+F,Parotid gland enlargement,8
+F,Sleep paralysis,8
+F,Mitochondrial cytopathy,8
+F,Ventricular arrhythmia,8
+F,Eye irritation,8
+F,Long QT syndrome,8
+F,General physical health deterioration,8
+F,Breast cancer,8
+F,Bradypnoea,8
+F,Ototoxicity,8
+F,Wrong patient received product,8
+F,Therapy partial responder,8
+F,Anal incontinence,8
+F,Sepsis,8
+F,Jaundice,8
+F,Diverticulitis,8
+F,Pharyngeal swelling,8
+F,Hepatic function abnormal,8
+F,Partial seizures,8
+F,Dry skin,8
+F,Epilepsy,8
+F,Tooth loss,8
+F,Neonatal hypoxia,8
+F,Affective disorder,8
+F,Skin discolouration,7
+F,Mobility decreased,7
+F,Temperature intolerance,7
+F,Rib fracture,7
+F,Therapeutic product ineffective,7
+F,Decreased activity,7
+F,Injury,7
+F,Humerus fracture,7
+F,Cardiovascular disorder,7
+F,Post-traumatic stress disorder,7
+F,Behaviour disorder,7
+F,Eye movement disorder,7
+F,Thrombosis,7
+F,Ventricular extrasystoles,7
+F,Cyanosis,7
+F,Left ventricular hypertrophy,7
+F,Pancreatitis,7
+F,Supraventricular tachycardia,7
+F,Hepatotoxicity,7
+F,Sleep talking,7
+F,Ageusia,7
+F,Physical deconditioning,7
+F,Apnoea,7
+F,Anosmia,7
+F,Gait inability,7
+F,Vitamin B12 decreased,7
+F,Brugada syndrome,7
+F,Salivary gland pain,7
+F,Bradykinesia,7
+F,Posterior reversible encephalopathy syndrome,7
+F,Heart rate irregular,7
+F,Liver injury,7
+F,Depressive symptom,7
+F,Haematochezia,7
+F,Cardiac failure congestive,7
+F,Cardiac disorder,7
+F,Deafness,7
+F,Neoplasm malignant,7
+F,Incontinence,7
+F,Premature delivery,7
+F,Upper gastrointestinal haemorrhage,7
+F,"Hallucinations, mixed",7
+F,Hypothermia,7
+F,Product quality issue,7
+F,Nasal congestion,7
+F,Quality of life decreased,7
+F,Loss of therapeutic response,7
+F,Muscle rupture,7
+F,Sinus arrest,7
+F,Obsessive thoughts,7
+F,Impaired gastric emptying,7
+F,Cardiomegaly,7
+F,Angina pectoris,7
+F,Drug reaction with eosinophilia and systemic symptoms,7
+F,Muscle tightness,7
+F,Femur fracture,7
+F,Blood alkaline phosphatase increased,7
+F,Mass,7
+F,Asphyxia,7
+F,Hepatic cirrhosis,6
+F,Bladder disorder,6
+F,Tinea cruris,6
+F,Polymyositis,6
+F,Coordination abnormal,6
+F,Tendon rupture,6
+F,Blood sodium decreased,6
+F,Somatic symptom disorder,6
+F,Renal disorder,6
+F,Product administered to patient of inappropriate age,6
+F,Musculoskeletal pain,6
+F,Wrong patient,6
+F,Hypertriglyceridaemia,6
+F,Muscle strain,6
+F,Frequent bowel movements,6
+F,Autonomic nervous system imbalance,6
+F,Extrasystoles,6
+F,Meniscus injury,6
+F,Faecaloma,6
+F,Persistent depressive disorder,6
+F,Respiratory acidosis,6
+F,Sensory loss,6
+F,Hernia,6
+F,Extra dose administered,6
+F,Pancreatitis acute,6
+F,Post-traumatic neck syndrome,6
+F,Cold sweat,6
+F,Incorrect route of product administration,6
+F,White blood cell count decreased,6
+F,Bronchitis,6
+F,Body temperature fluctuation,6
+F,Shock,6
+F,Skin lesion,6
+F,Deep vein thrombosis,6
+F,Haemorrhoids,6
+F,Libido increased,6
+F,Swelling,6
+F,Hypomania,6
+F,Product communication issue,6
+F,Sensation of foreign body,6
+F,Vomiting projectile,6
+F,Defaecation urgency,6
+F,Hepatitis acute,6
+F,Drug dose titration not performed,6
+F,Breast mass,6
+F,Gamma-glutamyltransferase increased,6
+F,Tachyphrenia,6
+F,Arthritis,6
+F,Nephrolithiasis,6
+F,Fracture,6
+F,Stupor,6
+F,Body temperature decreased,6
+F,Cerebrospinal fluid leakage,6
+F,Tearfulness,6
+F,Amniotic fluid volume increased,6
+F,Temperature regulation disorder,6
+F,Ear pain,6
+F,Poor peripheral circulation,6
+F,Bedridden,6
+F,Xerophthalmia,6
+F,Abnormal loss of weight,6
+F,Visual snow syndrome,6
+F,Heat stroke,6
+F,Alcohol use disorder,6
+F,Febrile convulsion,6
+F,Herpes zoster,6
+F,Drug-genetic interaction,6
+F,Nasal discomfort,6
+F,Alcoholism,6
+F,Hyperventilation,6
+F,Respiratory distress,6
+F,Oral discomfort,6
+F,Abdominal pain lower,6
+F,Menstrual disorder,6
+F,Alcohol interaction,6
+F,Febrile neutropenia,6
+F,Eating disorder,6
+F,Multiple organ dysfunction syndrome,6
+F,Mutism,6
+F,Psychomotor retardation,6
+F,Anxiety disorder,5
+F,Gestational diabetes,5
+F,Hostility,5
+F,Partner stress,5
+F,Tension,5
+F,Infantile apnoea,5
+F,Activation syndrome,5
+F,Maternal drugs affecting foetus,5
+F,Sleep apnoea syndrome,5
+F,Hyperlipidaemia,5
+F,Electroencephalogram abnormal,5
+F,Foetal death,5
+F,Transient ischaemic attack,5
+F,Progressive multifocal leukoencephalopathy,5
+F,Hypertensive urgency,5
+F,Mouth ulceration,5
+F,Soft tissue injury,5
+F,Nasal turbinate hypertrophy,5
+F,Defaecation disorder,5
+F,Concomitant disease aggravated,5
+F,Anaemia,5
+F,Cyst,5
+F,Dilated cardiomyopathy,5
+F,Liver disorder,5
+F,Spinal osteoarthritis,5
+F,Snoring,5
+F,Blindness,5
+F,Dysmenorrhoea,5
+F,Sleep deficit,5
+F,Pupillary reflex impaired,5
+F,Coronary artery disease,5
+F,Sciatica,5
+F,Melaena,5
+F,Wound,5
+F,Ligament sprain,5
+F,Inflammation,5
+F,Nasal septum deviation,5
+F,Sternal fracture,5
+F,Acute respiratory distress syndrome,5
+F,Left ventricular dysfunction,5
+F,Parkinson's disease,5
+F,Hysterectomy,5
+F,Increased tendency to bruise,5
+F,Peripheral sensory neuropathy,5
+F,Feeling cold,5
+F,Respiratory tract oedema,5
+F,Hypertonia,5
+F,Reaction to excipient,5
+F,Oral pain,5
+F,Retained placenta or membranes,5
+F,Obsessive-compulsive disorder,5
+F,Impaired quality of life,5
+F,Substance use disorder,5
+F,Rash maculo-papular,5
+F,Road traffic accident,5
+F,Gingival bleeding,5
+F,Metabolic myopathy,5
+F,Trigeminal neuralgia,5
+F,Multiple sclerosis relapse,5
+F,Drug withdrawal convulsions,5
+F,Slow speech,5
+F,Hypotonia,5
+F,Screaming,5
+F,Dysentery,5
+F,Multiple drug therapy,5
+F,Therapeutic response shortened,5
+F,Sluggishness,5
+F,Reflux laryngitis,5
+F,Gastrointestinal sounds abnormal,5
+F,Atrioventricular block second degree,5
+F,Dyspnoea at rest,5
+F,Atrial septal defect,5
+F,Weight fluctuation,5
+F,Prescribed underdose,5
+F,Anaphylactic shock,5
+F,Alcohol poisoning,5
+F,Haemorrhage intracranial,5
+F,Prothrombin time prolonged,5
+F,Uterine leiomyoma,5
+F,Tongue discomfort,5
+F,Sensitive skin,5
+F,Vitreous floaters,5
+F,Dysaesthesia,5
+F,Groin pain,5
+F,Gingival pain,5
+F,Developmental delay,5
+F,Eye pruritus,5
+F,Hepatic encephalopathy,5
+F,Amenorrhoea,5
+F,Hyperbilirubinaemia,5
+F,Blood loss anaemia,5
+M,Drug interaction,162
+M,Drug ineffective,159
+M,Toxicity to various agents,153
+M,Anxiety,124
+M,Abnormal dreams,120
+M,Off label use,110
+M,Nausea,107
+M,Nightmare,99
+M,Erectile dysfunction,97
+M,Sexual dysfunction,93
+M,Insomnia,93
+M,Dizziness,90
+M,Suicidal ideation,88
+M,Serotonin syndrome,87
+M,Suicide attempt,82
+M,Fatigue,81
+M,Depression,81
+M,Headache,77
+M,Intentional overdose,77
+M,Overdose,76
+M,Somnolence,75
+M,Foetal exposure during pregnancy,75
+M,Drug abuse,73
+M,Hyperhidrosis,65
+M,Confusional state,62
+M,Loss of libido,55
+M,Diarrhoea,55
+M,Tremor,55
+M,Agitation,54
+M,Completed suicide,52
+M,Withdrawal syndrome,52
+M,Condition aggravated,48
+M,Vomiting,47
+M,Product use in unapproved indication,47
+M,Seizure,46
+M,Aggression,46
+M,Medication error,44
+M,Anhedonia,44
+M,Disturbance in attention,43
+M,Coma,42
+M,Fall,42
+M,Electrocardiogram QT prolonged,42
+M,Asthenia,40
+M,Feeling abnormal,38
+M,Libido decreased,38
+M,Hyponatraemia,37
+M,Hypotension,36
+M,Tachycardia,36
+M,Death,36
+M,Depressed mood,36
+M,Sleep talking,35
+M,Dyspnoea,34
+M,Restlessness,33
+M,Hallucination,33
+M,Palpitations,33
+M,Pain,33
+M,Chest pain,32
+M,Brain fog,32
+M,Memory impairment,31
+M,Intentional product misuse,31
+M,Genital hypoaesthesia,31
+M,Weight decreased,30
+M,Cognitive disorder,29
+M,Emotional disorder,29
+M,Poisoning deliberate,29
+M,Hypoaesthesia,28
+M,Blood pressure increased,27
+M,Balance disorder,26
+M,Priapism,26
+M,Dry mouth,26
+M,Inappropriate schedule of product administration,26
+M,Weight increased,25
+M,Wrong technique in product usage process,25
+M,Inappropriate antidiuretic hormone secretion,25
+M,Tinnitus,25
+M,Product use issue,24
+M,Malaise,24
+M,Acute kidney injury,24
+M,Illness,24
+M,Gait disturbance,24
+M,Drug use disorder,24
+M,Constipation,24
+M,Sleep disorder,24
+M,Akathisia,24
+M,Anorgasmia,24
+M,Amnesia,24
+M,Dyskinesia,23
+M,Pyrexia,23
+M,Pulmonary alveolar haemorrhage,23
+M,Intentional self-injury,23
+M,Neuroleptic malignant syndrome,23
+M,Mania,22
+M,Anger,22
+M,Loss of consciousness,22
+M,Decreased appetite,21
+M,Abdominal pain upper,21
+M,Tardive dyskinesia,21
+M,Intentional product use issue,21
+M,Irritability,20
+M,Therapy cessation,20
+M,Pain in extremity,20
+M,Vision blurred,20
+M,Product substitution issue,20
+M,Loss of personal independence in daily activities,20
+M,Drug withdrawal syndrome,19
+M,Urinary retention,19
+M,Panic attack,19
+M,Drug ineffective for unapproved indication,19
+M,Abdominal pain,19
+M,Electric shock sensation,19
+M,Sleep terror,19
+M,Heart rate increased,18
+M,Adverse drug reaction,18
+M,Generalised tonic-clonic seizure,18
+M,Muscle twitching,18
+M,Premature baby,18
+M,Muscular weakness,18
+M,Myalgia,18
+M,Delirium,17
+M,Psychotic disorder,17
+M,Rapid eye movement sleep behaviour disorder,17
+M,Hepatic cytolysis,17
+M,Sedation,17
+M,Maternal exposure during pregnancy,17
+M,Stress,17
+M,Parkinsonism,17
+M,Rhabdomyolysis,17
+M,Pruritus,17
+M,Gastrointestinal disorder,17
+M,Paranoia,16
+M,Arthralgia,16
+M,Musculoskeletal stiffness,16
+M,Dysarthria,16
+M,Abdominal discomfort,16
+M,Drug dependence,16
+M,Drug intolerance,16
+M,Treatment noncompliance,16
+M,Cardiac arrest,16
+M,Atrial fibrillation,15
+M,Abnormal behaviour,15
+M,Syncope,15
+M,Affect lability,15
+M,Migraine,15
+M,Penis disorder,15
+M,Therapy interrupted,15
+M,Disorientation,15
+M,Emotional distress,15
+M,Altered state of consciousness,15
+M,Therapeutic product effect incomplete,15
+M,Apathy,15
+M,Substance use disorder,14
+M,"Hallucination, auditory",14
+M,Impaired quality of life,14
+M,Major depression,14
+M,Orthostatic hypotension,14
+M,Chills,14
+M,Pollakiuria,14
+M,Hypotonia,14
+M,Hypertension,14
+M,Bradycardia,14
+M,Poor quality sleep,14
+M,Psychomotor hyperactivity,14
+M,Pancreatitis acute,14
+M,Mood swings,14
+M,Bruxism,13
+M,Encephalopathy,13
+M,Respiratory depression,13
+M,Burning sensation,13
+M,Haematochezia,13
+M,Pneumonia aspiration,13
+M,Depersonalisation/derealisation disorder,13
+M,Crying,13
+M,Product dose omission issue,12
+M,Lethargy,12
+M,Muscle spasms,12
+M,Subdural haematoma,12
+M,Visual impairment,12
+M,Pulmonary oedema,12
+M,Haematoma muscle,12
+M,Initial insomnia,12
+M,Ejaculation failure,12
+M,Hot flush,12
+M,Drug withdrawal syndrome neonatal,12
+M,Vertigo,12
+M,Paraesthesia,12
+M,Dysphagia,12
+M,Therapeutic product effect decreased,11
+M,Circulatory collapse,11
+M,Accidental overdose,11
+M,Chest discomfort,11
+M,Mental status changes,11
+M,Speech disorder,11
+M,No adverse event,11
+M,Melaena,11
+M,Diplopia,11
+M,Product odour abnormal,11
+M,Rash,11
+M,General physical health deterioration,10
+M,Miosis,10
+M,Arthritis,10
+M,Bradykinesia,10
+M,Delusion,10
+M,Reversible cerebral vasoconstriction syndrome,10
+M,Alcohol poisoning,10
+M,Dyspepsia,10
+M,Male orgasmic disorder,10
+M,Status epilepticus,10
+M,Premature ejaculation,10
+M,Dystonia,10
+M,Rectal haemorrhage,10
+M,Dysuria,10
+M,Anaemia,10
+M,Myoclonus,10
+M,Drug level increased,9
+M,Hypertonia,9
+M,Asthma,9
+M,Hypopnoea,9
+M,Feeling jittery,9
+M,Periodic limb movement disorder,9
+M,Nervous system disorder,9
+M,Extrapyramidal disorder,9
+M,Treatment failure,9
+M,Blood testosterone decreased,9
+M,Screaming,9
+M,Hospitalisation,9
+M,Metabolic acidosis,9
+M,Sinus tachycardia,9
+M,Cerebrovascular accident,9
+M,Decerebrate posture,9
+M,Therapy non-responder,9
+M,Shock haemorrhagic,9
+M,Substance abuse,9
+M,Swelling,9
+M,Dementia,9
+M,Gastrooesophageal reflux disease,9
+M,Arrhythmia,9
+M,Panic reaction,9
+M,Incorrect route of product administration,9
+M,"Hallucination, visual",9
+M,Frequent bowel movements,9
+M,Nervousness,9
+M,Thinking abnormal,9
+M,Genital anaesthesia,9
+M,Back pain,9
+M,Product prescribing issue,9
+M,Mental disorder,8
+M,Discomfort,8
+M,Small for dates baby,8
+M,Mitochondrial myopathy acquired,8
+M,Tachyphrenia,8
+M,Torsade de pointes,8
+M,Groin pain,8
+M,Developmental delay,8
+M,Neutropenia,8
+M,Neonatal respiratory distress,8
+M,Product quality issue,8
+M,Fear,8
+M,Lacrimation increased,8
+M,Mydriasis,8
+M,Multiple acyl-coenzyme A dehydrogenase deficiency,8
+M,Bipolar disorder,8
+M,COVID-19,8
+M,Brain injury,8
+M,Bradyphrenia,8
+M,Alopecia,8
+M,Pulmonary embolism,8
+M,Language disorder,8
+M,Cardio-respiratory arrest,8
+M,Agranulocytosis,8
+M,Eosinophilia,8
+M,Intentional dose omission,8
+M,Autism spectrum disorder,8
+M,Euphoric mood,8
+M,Pneumonia,7
+M,Neck pain,7
+M,Sedation complication,7
+M,Nephrolithiasis,7
+M,Blood creatine phosphokinase increased,7
+M,Penile discomfort,7
+M,Obsessive-compulsive disorder,7
+M,Affective disorder,7
+M,Incorrect dose administered,7
+M,Hypersomnia,7
+M,Sick leave,7
+M,Lactic acidosis,7
+M,Gastric neuroendocrine carcinoma,7
+M,Influenza like illness,7
+M,Cardiac failure,7
+M,Head discomfort,7
+M,Synovitis,7
+M,Respiratory failure,7
+M,Substance use,7
+M,Depression suicidal,7
+M,Appetite disorder,7
+M,Mood altered,7
+M,Skin exfoliation,7
+M,Deep vein thrombosis,7
+M,Product administration error,7
+M,Feeling of despair,7
+M,Swollen tongue,7
+M,Patient dissatisfaction with treatment,7
+M,Depressed level of consciousness,7
+M,Hypoxia,7
+M,Chronic gastritis,7
+M,Erythema,7
+M,Sopor,7
+M,Pernicious anaemia,7
+M,Vitamin B12 deficiency,7
+M,Electrocardiogram QRS complex prolonged,7
+M,Ejaculation delayed,7
+M,Wrong patient,7
+M,Dizziness postural,7
+M,Product communication issue,6
+M,Eczema,6
+M,Drug effect less than expected,6
+M,Dysgeusia,6
+M,Hepatitis,6
+M,Joint stiffness,6
+M,Epilepsy,6
+M,Resting tremor,6
+M,Multiple organ dysfunction syndrome,6
+M,Mental impairment,6
+M,Ataxia,6
+M,Disability,6
+M,Organic erectile dysfunction,6
+M,Liver function test abnormal,6
+M,Respiratory distress,6
+M,Therapeutic response unexpected,6
+M,Arteriosclerosis coronary artery,6
+M,Male sexual dysfunction,6
+M,"Hallucinations, mixed",6
+M,Insurance issue,6
+M,Urticaria,6
+M,Cogwheel rigidity,6
+M,Interstitial lung disease,6
+M,Gastrointestinal pain,6
+M,Accidental poisoning,6
+M,Haemoptysis,6
+M,Eye pain,6
+M,Genital disorder,6
+M,Self-injurious ideation,6
+M,Product prescribing error,6
+M,Parosmia,6
+M,Somnambulism,6
+M,Derealisation,6
+M,Penile size reduced,6
+M,Brain oedema,6
+M,Behaviour disorder,6
+M,Blunted affect,6
+M,Talipes,6
+M,Low birth weight baby,6
+M,Contusion,6
+M,Feeling hot,6
+M,Emotional poverty,6
+M,Decreased activity,6
+M,Road traffic accident,5
+M,Genital paraesthesia,5
+M,Urinary incontinence,5
+M,Pain in jaw,5
+M,Thrombocytopenia,5
+M,Antidepressant drug level increased,5
+M,Salivary hypersecretion,5
+M,Impaired work ability,5
+M,Eating disorder,5
+M,Haematuria,5
+M,Distributive shock,5
+M,Peripheral coldness,5
+M,Self-destructive behaviour,5
+M,Delusion of grandeur,5
+M,Cough,5
+M,Psychomotor retardation,5
+M,Ocular discomfort,5
+M,Hyperaesthesia,5
+M,Foetal megacystis,5
+M,Drug-genetic interaction,5
+M,Abdominal distension,5
+M,Chromaturia,5
+M,Quality of life decreased,5
+M,Gastrointestinal sounds abnormal,5
+M,Bradypnoea,5
+M,Oxygen saturation decreased,5
+M,Metabolic encephalopathy,5
+M,Depressive symptom,5
+M,Attention deficit hyperactivity disorder,5
+M,Disinhibition,5
+M,Mobility decreased,5
+M,Drug titration error,5
+M,Wrong product administered,5
+M,Blood prolactin increased,5
+M,Middle insomnia,5
+M,Strabismus,5
+M,Colitis ulcerative,5
+M,Psychiatric decompensation,5
+M,Neuralgia,5
+M,Gambling disorder,5
+M,Tension,5
+M,Infantile apnoea,5
+M,Cold sweat,5
+M,Hypomania,5
+M,Feeling cold,5
+M,Duodenal ulcer perforation,5
+M,Peripheral sensory neuropathy,5
+M,Pressure of speech,5
+M,Formication,5
+M,Atypical haemolytic uraemic syndrome,5
+M,Bronchiectasis,5
+M,Libido increased,5
+M,Myocardial infarction,5
+M,Incoherent,5
+M,Tubulointerstitial nephritis,5
+M,Therapy change,5
+M,Underdose,5
+M,Skin burning sensation,5
+M,Testicular pain,5
+M,Orgasmic sensation decreased,5
+M,Potentiating drug interaction,5
+M,Night sweats,5
+M,Nocturia,5
+M,Productive cough,5
+M,Eye movement disorder,5
+M,Mucosal prolapse syndrome,5
+M,Dissociation,5

@@ -1,0 +1,22 @@
+drug_class,outcome,n
+ADHD,Other serious,1056
+ADHD,Hospitalization,392
+ADHD,Death,140
+ADHD,Life-threatening,97
+ADHD,Disability,54
+ADHD,Required intervention,19
+ADHD,Congenital anomaly,5
+ANTIDEPRESSANT,Other serious,5194
+ANTIDEPRESSANT,Hospitalization,2329
+ANTIDEPRESSANT,Life-threatening,888
+ANTIDEPRESSANT,Disability,757
+ANTIDEPRESSANT,Death,655
+ANTIDEPRESSANT,Congenital anomaly,91
+ANTIDEPRESSANT,Required intervention,85
+GLP1,Other serious,6226
+GLP1,Hospitalization,3072
+GLP1,Disability,399
+GLP1,Life-threatening,330
+GLP1,Death,266
+GLP1,Required intervention,187
+GLP1,Congenital anomaly,10

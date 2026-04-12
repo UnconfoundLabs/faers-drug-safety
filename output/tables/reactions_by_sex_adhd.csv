@@ -1,0 +1,384 @@
+sex,reaction,n
+F,Drug ineffective,191
+F,Headache,87
+F,Fatigue,84
+F,Product availability issue,77
+F,Nausea,68
+F,Anxiety,67
+F,Product substitution issue,49
+F,Insomnia,48
+F,Somnolence,47
+F,Feeling abnormal,47
+F,Off label use,45
+F,Disturbance in attention,45
+F,Toxicity to various agents,44
+F,Product use issue,43
+F,Depression,41
+F,Inability to afford medication,39
+F,Suicidal ideation,38
+F,Decreased appetite,35
+F,Vomiting,30
+F,No adverse event,30
+F,Drug abuse,30
+F,Dizziness,30
+F,Product dose omission issue,27
+F,Product physical issue,26
+F,Irritability,26
+F,Insurance issue,25
+F,Application site erythema,25
+F,Agitation,24
+F,Aggression,24
+F,Malaise,24
+F,Wrong technique in product usage process,24
+F,Palpitations,24
+F,Product quality issue,23
+F,Hypotension,23
+F,Cardiac valve disease,22
+F,Weight increased,22
+F,Heart rate increased,21
+F,Migraine,21
+F,Brain fog,21
+F,Illness,21
+F,Product adhesion issue,20
+F,Depressed mood,19
+F,Condition aggravated,19
+F,Exposure during pregnancy,18
+F,Rash,18
+F,Hyperhidrosis,18
+F,Tremor,18
+F,Dry mouth,18
+F,Hypertension,18
+F,Application site pain,18
+F,Application site pruritus,18
+F,Product use in unapproved indication,17
+F,Inappropriate schedule of product administration,17
+F,Pruritus,17
+F,Abnormal behaviour,17
+F,Hypoaesthesia,17
+F,Dyspnoea,16
+F,Application site irritation,16
+F,Arthralgia,16
+F,Loss of personal independence in daily activities,15
+F,Mitral valve incompetence,15
+F,Tachycardia,15
+F,Intentional overdose,15
+F,Pain,15
+F,Coeliac disease,15
+F,Overdose,15
+F,Drug effect less than expected,14
+F,Impaired work ability,14
+F,Weight decreased,14
+F,Anger,14
+F,Vision blurred,14
+F,Drug interaction,14
+F,Abdominal pain upper,14
+F,Mania,13
+F,Mental disorder,13
+F,Lethargy,13
+F,Hypersensitivity,13
+F,Blood pressure increased,13
+F,Paraesthesia,13
+F,Intentional product use issue,13
+F,Abdominal discomfort,13
+F,Drug screen positive,13
+F,Chest pain,13
+F,Memory impairment,12
+F,Withdrawal syndrome,12
+F,Panic attack,12
+F,Confusional state,12
+F,Therapeutic response changed,12
+F,Feeling jittery,11
+F,Maternal exposure during pregnancy,11
+F,Therapeutic response shortened,11
+F,Bradycardia,11
+F,Incorrect dose administered,11
+F,Adverse event,11
+F,Gastrointestinal disorder,10
+F,Drug intolerance,10
+F,Crying,10
+F,Urticaria,10
+F,Drug hypersensitivity,10
+F,Abdominal distension,10
+F,Psychotic disorder,10
+F,Therapeutic product effect decreased,9
+F,Restlessness,9
+F,Dyskinesia,9
+F,Product administration interrupted,9
+F,Mood swings,9
+F,Loss of consciousness,9
+F,Substance abuse,9
+F,Constipation,9
+F,Product formulation issue,9
+F,Application site swelling,9
+F,Dehydration,9
+F,Diarrhoea,9
+F,Adverse drug reaction,9
+F,Road traffic accident,8
+F,Intentional product misuse,8
+F,Attention deficit hyperactivity disorder,8
+F,Hospitalisation,8
+F,Peripheral swelling,8
+F,Glossodynia,8
+F,Suicide attempt,8
+F,Locked-in syndrome,8
+F,Thinking abnormal,8
+F,Drug screen negative,8
+F,Stress,8
+F,Affect lability,8
+F,Chest discomfort,8
+F,Therapeutic product effect variable,8
+F,Brain stem haemorrhage,8
+F,Asthenia,7
+F,General physical health deterioration,7
+F,Impaired driving ability,7
+F,Executive dysfunction,7
+F,Hepatic enzyme increased,7
+F,Autism spectrum disorder,7
+F,Visual impairment,7
+F,Dystonia,7
+F,Erythema,7
+F,Abdominal pain,7
+F,Joint swelling,7
+F,Electrocardiogram QT prolonged,7
+F,Mood altered,7
+F,Poor quality product administered,7
+F,Delusion,7
+F,Hallucination,7
+F,Muscle spasms,7
+F,Asthma,6
+F,Product dispensing error,6
+F,Skin irritation,6
+F,Reaction to excipient,6
+F,Feeling hot,6
+F,Mydriasis,6
+F,Product use complaint,6
+F,Drug-induced liver injury,6
+F,Sleep disorder,6
+F,Product administration error,6
+F,Vertigo,6
+F,Eye pain,6
+F,Drug dependence,6
+F,Alopecia,6
+F,Product taste abnormal,6
+F,Syncope,6
+F,Application site reaction,6
+F,Dyspepsia,6
+F,Encephalopathy,6
+F,Mental impairment,6
+F,Muscle tightness,6
+F,Discomfort,5
+F,Paranoia,5
+F,Application site rash,5
+F,Apathy,5
+F,Therapeutic response decreased,5
+F,Product packaging quantity issue,5
+F,Product storage error,5
+F,Product prescribing issue,5
+F,Fall,5
+F,Nasopharyngitis,5
+F,Sedation,5
+F,Seizure,5
+F,Blister,5
+F,Therapy interrupted,5
+F,Emotional disorder,5
+F,Product prescribing error,5
+F,Trismus,5
+F,Application site discolouration,5
+F,Fluid retention,5
+F,Swelling,5
+F,Gastrooesophageal reflux disease,5
+F,Arrhythmia,5
+F,Device issue,5
+F,Acne,5
+F,Mitral valve prolapse,5
+F,Depressed level of consciousness,5
+F,Rash erythematous,5
+F,Myalgia,5
+F,Suicidal behaviour,5
+F,Tinnitus,5
+F,Cardiogenic shock,5
+F,Blood pressure decreased,5
+F,Pregnancy,5
+F,Musculoskeletal stiffness,5
+F,Cognitive disorder,5
+F,Abortion spontaneous,5
+F,Metabolic disorder,5
+F,Distributive shock,5
+F,Head injury,5
+F,Cough,5
+F,Unevaluable event,5
+M,Drug ineffective,142
+M,Toxicity to various agents,76
+M,Product availability issue,71
+M,Insomnia,49
+M,Drug abuse,46
+M,Off label use,46
+M,Product dose omission issue,46
+M,Headache,43
+M,Product use issue,42
+M,Decreased appetite,41
+M,Aggression,39
+M,No adverse event,35
+M,Suicidal ideation,35
+M,Product substitution issue,34
+M,Nausea,32
+M,Anxiety,31
+M,Cardiac valve disease,31
+M,Drug interaction,30
+M,Fatigue,29
+M,Overdose,28
+M,Drug screen positive,27
+M,Agitation,27
+M,Feeling abnormal,26
+M,Cardiogenic shock,25
+M,Product physical issue,22
+M,Drug dependence,22
+M,Disturbance in attention,21
+M,Inappropriate schedule of product administration,21
+M,Dystonia,20
+M,Cardiomyopathy,19
+M,Inability to afford medication,19
+M,Condition aggravated,19
+M,Depression,19
+M,Acute respiratory failure,18
+M,Abnormal behaviour,17
+M,Drug effect less than expected,17
+M,Vomiting,17
+M,Somnolence,16
+M,Product use in unapproved indication,16
+M,Mitral valve incompetence,16
+M,Depressed mood,16
+M,Psychotic disorder,15
+M,Palpitations,15
+M,Withdrawal syndrome,15
+M,Suicide attempt,15
+M,Anger,15
+M,Dizziness,15
+M,Autism spectrum disorder,15
+M,Chest pain,14
+M,Bradycardia,13
+M,Malaise,13
+M,Blood pressure increased,13
+M,Application site pain,13
+M,Impaired driving ability,13
+M,Weight decreased,13
+M,Therapeutic product effect incomplete,13
+M,Intentional overdose,12
+M,Irritability,12
+M,Wrong technique in product usage process,12
+M,Diarrhoea,12
+M,Application site erythema,12
+M,Heart rate increased,12
+M,Electrocardiogram QT prolonged,12
+M,Hyperhidrosis,12
+M,Seizure,11
+M,Syncope,11
+M,Therapeutic product effect decreased,11
+M,Therapeutic response changed,10
+M,Tachycardia,10
+M,Weight increased,10
+M,Hallucination,10
+M,Acute kidney injury,10
+M,Panic attack,10
+M,Product quality issue,10
+M,Hypotension,10
+M,Insurance issue,10
+M,"Hallucination, auditory",10
+M,Dyskinesia,10
+M,Drug withdrawal syndrome,10
+M,Lethargy,10
+M,Product adhesion issue,10
+M,Psychomotor hyperactivity,10
+M,Rhabdomyolysis,10
+M,Treatment noncompliance,10
+M,Hypertension,9
+M,Pain,9
+M,Tic,9
+M,Illness,9
+M,Incorrect dose administered,9
+M,Substance abuse,9
+M,Terminal insomnia,9
+M,Therapeutic response shortened,9
+M,Attention deficit hyperactivity disorder,9
+M,Tremor,9
+M,Brain fog,9
+M,Cardiac failure,9
+M,Asthenia,9
+M,Dilated cardiomyopathy,9
+M,Enuresis,9
+M,Pulmonary hypertension,8
+M,Self-destructive behaviour,8
+M,Application site irritation,8
+M,Application site pruritus,8
+M,Migraine,8
+M,Hospitalisation,8
+M,Therapeutic response unexpected,8
+M,Myopericarditis,8
+M,Mania,8
+M,Pyrexia,8
+M,Dyspnoea,8
+M,Intentional product misuse,8
+M,Crying,8
+M,Dehydration,7
+M,Mitral valve disease,7
+M,Gait disturbance,7
+M,"Hallucination, visual",7
+M,Rash,7
+M,Loss of personal independence in daily activities,7
+M,Product storage error,7
+M,Hypokalaemia,6
+M,Blood pressure decreased,6
+M,Dry mouth,6
+M,Tourette's disorder,6
+M,Serotonin syndrome,6
+M,Therapy cessation,6
+M,Abdominal pain upper,6
+M,Product prescribing error,6
+M,Initial insomnia,6
+M,Substance use,6
+M,Fall,6
+M,Impulsive behaviour,6
+M,Accidental overdose,6
+M,Arteriosclerosis coronary artery,6
+M,Poor quality product administered,6
+M,Medication error,6
+M,Miosis,6
+M,Posterior reversible encephalopathy syndrome,6
+M,Road traffic accident,6
+M,Myocardial infarction,6
+M,Frustration tolerance decreased,6
+M,Abdominal pain,6
+M,Abdominal discomfort,6
+M,Acute myocardial infarction,6
+M,Gastrointestinal disorder,6
+M,Cardio-respiratory arrest,6
+M,Product administration interrupted,6
+M,Therapy non-responder,5
+M,Metabolic alkalosis,5
+M,Orthostatic hypotension,5
+M,Foetal exposure during pregnancy,5
+M,Psychiatric symptom,5
+M,Sleep disorder,5
+M,Vision blurred,5
+M,Arrhythmia,5
+M,Product administration error,5
+M,Gun shot wound,5
+M,Hypomania,5
+M,Rebound effect,5
+M,Erectile dysfunction,5
+M,Product colour issue,5
+M,Pulmonary alveolar haemorrhage,5
+M,Gynaecomastia,5
+M,Restlessness,5
+M,Application site rash,5
+M,Blood creatine phosphokinase increased,5
+M,Akathisia,5
+M,Increased appetite,5
+M,Confusional state,5
+M,Intentional product use issue,5
+M,Drug tolerance,5
+M,Poisoning,5
+M,Drug intolerance,5
+M,Physical assault,5
+M,Product prescribing issue,5
+M,Social problem,5

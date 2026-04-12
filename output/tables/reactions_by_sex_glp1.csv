@@ -1,0 +1,1146 @@
+sex,reaction,n
+F,Incorrect dose administered,3356
+F,Nausea,2142
+F,Injection site pain,1867
+F,Vomiting,1232
+F,Off label use,1230
+F,Extra dose administered,1104
+F,Diarrhoea,1023
+F,Constipation,777
+F,Accidental underdose,724
+F,Injection site haemorrhage,619
+F,Decreased appetite,608
+F,Injection site erythema,575
+F,Product dose omission issue,570
+F,Abdominal pain upper,561
+F,Blood glucose increased,554
+F,Headache,533
+F,Fatigue,519
+F,Weight increased,503
+F,Injection site bruising,489
+F,Wrong technique in product usage process,470
+F,Product use in unapproved indication,425
+F,Dizziness,416
+F,Weight decreased,412
+F,Inappropriate schedule of product administration,408
+F,Drug ineffective,394
+F,Impaired gastric emptying,363
+F,Abdominal pain,352
+F,Illness,347
+F,Dehydration,345
+F,Dyspepsia,296
+F,Accidental overdose,295
+F,Anxiety,284
+F,Abdominal discomfort,281
+F,Malaise,278
+F,Hunger,266
+F,Visual impairment,265
+F,Asthenia,263
+F,Injection site pruritus,263
+F,Increased appetite,246
+F,Alopecia,236
+F,Pain,233
+F,Eructation,231
+F,Abdominal distension,218
+F,Injection site mass,198
+F,Gastrointestinal disorder,186
+F,Injection site swelling,180
+F,Injection site injury,179
+F,Blood glucose decreased,178
+F,Feeling abnormal,171
+F,Depression,168
+F,Glycosylated haemoglobin increased,168
+F,Pancreatitis,168
+F,Arthralgia,166
+F,Product administered at inappropriate site,165
+F,Injection site reaction,161
+F,Product storage error,157
+F,Injection site rash,151
+F,Gastrooesophageal reflux disease,149
+F,Intestinal obstruction,145
+F,Flatulence,140
+F,Product use issue,137
+F,Back pain,135
+F,Maternal exposure during pregnancy,134
+F,COVID-19,130
+F,Product communication issue,130
+F,Depressed mood,129
+F,Dyspnoea,129
+F,Cough,128
+F,Injury associated with device,125
+F,Fall,123
+F,Vision blurred,121
+F,Palpitations,120
+F,Feeding disorder,120
+F,Injection site urticaria,119
+F,Insomnia,118
+F,Myalgia,116
+F,Rash,115
+F,Pruritus,114
+F,Product tampering,107
+F,Food craving,106
+F,Hypersensitivity,106
+F,Cholelithiasis,104
+F,Tremor,102
+F,Device leakage,101
+F,Suicidal ideation,101
+F,Nasopharyngitis,101
+F,Pain in extremity,100
+F,Hypoglycaemia,96
+F,Weight loss poor,96
+F,Injection site discharge,95
+F,Hypertension,92
+F,Muscle spasms,92
+F,Heart rate increased,90
+F,Condition aggravated,88
+F,Cerebrovascular accident,87
+F,Incorrect dose administered by device,85
+F,Urinary tract infection,84
+F,Blood pressure increased,84
+F,Hyperhidrosis,84
+F,Device malfunction,82
+F,Urticaria,82
+F,Wrong technique in device usage process,80
+F,Chills,80
+F,Migraine,79
+F,Paraesthesia,79
+F,Somnolence,69
+F,Ileus,68
+F,Dry mouth,67
+F,Syncope,67
+F,Injection site hypersensitivity,67
+F,Injection site vesicles,67
+F,Hypoaesthesia,66
+F,Pyrexia,66
+F,Panic attack,65
+F,Influenza,64
+F,Loss of consciousness,64
+F,Memory impairment,63
+F,Chest pain,63
+F,Adverse drug reaction,62
+F,Product dispensing error,62
+F,Drug intolerance,62
+F,Sensitive skin,58
+F,Contusion,58
+F,Cataract,58
+F,Gait disturbance,56
+F,Vertigo,56
+F,Hypoacusis,55
+F,Nephrolithiasis,54
+F,Hypotension,54
+F,Drug hypersensitivity,54
+F,Acute kidney injury,52
+F,Blood glucose abnormal,52
+F,Tachycardia,51
+F,Neck pain,51
+F,Breast cancer,51
+F,Injection site discomfort,50
+F,Unevaluable event,49
+F,Dysgeusia,49
+F,Peripheral swelling,49
+F,Taste disorder,48
+F,Lethargy,48
+F,Injection site irritation,47
+F,Pancreatitis acute,46
+F,Cholecystitis,45
+F,Stress,45
+F,Device use issue,45
+F,Oropharyngeal pain,45
+F,Surgery,45
+F,Hospitalisation,45
+F,Burning sensation,45
+F,Intentional product misuse,45
+F,Retching,45
+F,Blindness,45
+F,Underdose,45
+F,Blood pressure decreased,44
+F,Colitis,43
+F,Atrial fibrillation,43
+F,Optic ischaemic neuropathy,43
+F,Neuropathy peripheral,43
+F,Device delivery system issue,43
+F,Cataract operation,42
+F,Seizure,42
+F,Suspected counterfeit product,42
+F,Dysphagia,42
+F,Lymphadenopathy,41
+F,Arthritis,41
+F,Allodynia,41
+F,Gastritis,41
+F,Nervousness,41
+F,Counterfeit product administered,40
+F,Cardiac disorder,40
+F,Product label confusion,39
+F,Diverticulitis,38
+F,Injection site coldness,38
+F,Vaginal haemorrhage,38
+F,Hypophagia,38
+F,Brain fog,37
+F,Pain of skin,37
+F,Overdose,37
+F,Thirst,36
+F,Drug dose omission by device,36
+F,Injection site warmth,36
+F,Myocardial infarction,36
+F,Diabetic ketoacidosis,35
+F,Renal impairment,35
+F,Hepatic enzyme increased,35
+F,Death,35
+F,Mobility decreased,34
+F,Abortion spontaneous,34
+F,Swelling,34
+F,Gastroenteritis viral,34
+F,Drug interaction,33
+F,Influenza like illness,33
+F,Chest discomfort,33
+F,Injection site discolouration,33
+F,Dysphonia,33
+F,Hot flush,32
+F,Pneumonia,32
+F,Balance disorder,32
+F,Skin burning sensation,32
+F,Sinusitis,31
+F,Appendicitis,31
+F,Feeling cold,31
+F,Small intestinal obstruction,31
+F,Cold sweat,31
+F,Intentional dose omission,31
+F,Cholecystectomy,31
+F,Haematemesis,31
+F,Ill-defined disorder,31
+F,Accidental exposure to product,30
+F,Hypokalaemia,30
+F,Diabetes mellitus inadequate control,30
+F,Discomfort,30
+F,Mental disorder,30
+F,Neoplasm malignant,30
+F,Gallbladder disorder,29
+F,Biliary colic,29
+F,Malnutrition,29
+F,Blood potassium decreased,29
+F,Presyncope,29
+F,Feeling hot,29
+F,Pulmonary embolism,29
+F,Disability,28
+F,Neuralgia,28
+F,Deep vein thrombosis,28
+F,Muscular weakness,28
+F,Pancreatic carcinoma,28
+F,Device issue,28
+F,Rash pruritic,27
+F,Therapy cessation,27
+F,Anaphylactic reaction,27
+F,Drug dose titration not performed,26
+F,Needle issue,26
+F,Renal disorder,26
+F,Emotional distress,26
+F,Gastrointestinal pain,25
+F,Blood cholesterol increased,25
+F,Postmenopausal haemorrhage,25
+F,Irritability,25
+F,Thyroid mass,25
+F,No adverse event,25
+F,Product quality issue,25
+F,Heavy menstrual bleeding,25
+F,Pollakiuria,24
+F,Fluid intake reduced,24
+F,Rhinorrhoea,24
+F,Prescription drug used without a prescription,24
+F,Renal failure,23
+F,Musculoskeletal stiffness,23
+F,Hepatic steatosis,23
+F,Vomiting projectile,23
+F,Viral infection,23
+F,Appetite disorder,23
+F,Irritable bowel syndrome,23
+F,Lip swelling,23
+F,Confusional state,23
+F,Blood glucose fluctuation,22
+F,Thyroid cancer,22
+F,Arthropathy,22
+F,Ageusia,22
+F,Gait inability,22
+F,Injection site indentation,22
+F,Intermenstrual bleeding,21
+F,Injection site paraesthesia,21
+F,Liquid product physical issue,21
+F,Gastrointestinal sounds abnormal,21
+F,Haemorrhage,21
+F,Thrombosis,21
+F,Mood altered,20
+F,Herpes zoster,20
+F,Knee arthroplasty,20
+F,Throat irritation,20
+F,Sepsis,20
+F,Oropharyngeal discomfort,20
+F,Thyroid disorder,20
+F,Nasal congestion,20
+F,Blindness unilateral,20
+F,Weight fluctuation,20
+F,Medication error,19
+F,Chromaturia,19
+F,Knee operation,19
+F,Infection,19
+F,Chronic kidney disease,19
+F,Arrhythmia,19
+F,Muscle atrophy,19
+F,Abdominal pain lower,19
+F,Road traffic accident,19
+F,Liver injury,19
+F,Haematochezia,19
+F,Near death experience,19
+F,Swelling face,19
+F,Ketoacidosis,19
+F,Joint swelling,19
+F,Frequent bowel movements,19
+F,Lipase increased,19
+F,Inflammation,18
+F,Sleep disorder,18
+F,Feeling jittery,18
+F,Glycosylated haemoglobin abnormal,18
+F,Device defective,18
+F,"Sleep disorder due to general medical condition, insomnia type",18
+F,Bowel movement irregularity,18
+F,Transient ischaemic attack,18
+F,Erythema,18
+F,Eye disorder,17
+F,Intestinal ischaemia,17
+F,Abnormal loss of weight,17
+F,Diabetes mellitus,17
+F,Eye pain,17
+F,Seasonal allergy,17
+F,Swollen tongue,17
+F,Injection site induration,17
+F,Product packaging quantity issue,17
+F,Menstruation irregular,17
+F,Alanine aminotransferase increased,17
+F,Disturbance in attention,16
+F,Jaundice,16
+F,Menstruation delayed,16
+F,Kidney infection,16
+F,Incorrect route of product administration,16
+F,Fungal infection,16
+F,Device mechanical issue,16
+F,Crying,16
+F,Dry eye,16
+F,Sunburn,16
+F,Disorientation,16
+F,Blood pressure abnormal,16
+F,Anal incontinence,15
+F,Limb injury,15
+F,Skin discolouration,15
+F,Parosmia,15
+F,Angioedema,15
+F,Dry skin,15
+F,Hypersomnia,15
+F,Food poisoning,15
+F,Injection site inflammation,15
+F,Musculoskeletal chest pain,15
+F,Dysstasia,15
+F,Colitis ischaemic,15
+F,Anaemia,15
+F,Cardiac arrest,15
+F,Loss of personal independence in daily activities,15
+F,Liver disorder,15
+F,Intentional product use issue,15
+F,Hypothyroidism,14
+F,Bipolar disorder,14
+F,Hip arthroplasty,14
+F,Cardiac failure,14
+F,Hiatus hernia,14
+F,Limb discomfort,14
+F,Epistaxis,14
+F,Macular degeneration,14
+F,Sensation of foreign body,14
+F,Ileus paralytic,14
+F,Euglycaemic diabetic ketoacidosis,14
+F,Amnesia,14
+F,Pancreatic disorder,14
+F,Hernia,14
+F,Musculoskeletal discomfort,14
+F,Foot fracture,13
+F,Gastroenteritis,13
+F,Therapy interrupted,13
+F,Fibromyalgia,13
+F,Eye irritation,13
+F,Menstrual disorder,13
+F,Drug-induced liver injury,13
+F,Haemorrhoids,13
+F,General physical health deterioration,13
+F,Therapeutic product effect decreased,13
+F,Asthma,13
+F,Suicide attempt,13
+F,Product use complaint,13
+F,Bedridden,13
+F,Blood pressure fluctuation,13
+F,Ear pain,13
+F,Mood swings,13
+F,Diplopia,13
+F,Glomerular filtration rate decreased,13
+F,Rash erythematous,13
+F,Blood creatinine increased,13
+F,Aspiration,13
+F,Faeces discoloured,13
+F,Exposure via skin contact,13
+F,Liver function test abnormal,12
+F,Pharyngeal swelling,12
+F,Hepatic cirrhosis,12
+F,Head discomfort,12
+F,Concussion,12
+F,Ankle fracture,12
+F,Skin exfoliation,12
+F,Eating disorder,12
+F,Dementia,12
+F,Intercepted product dispensing error,12
+F,Glycosylated haemoglobin decreased,12
+F,Pain in jaw,12
+F,Food aversion,12
+F,Skin reaction,12
+F,Sluggishness,12
+F,Product packaging issue,12
+F,Agitation,12
+F,Injection site streaking,12
+F,Apathy,12
+F,Blood triglycerides increased,12
+F,Renal pain,12
+F,Sleep disorder due to a general medical condition,12
+F,Tinnitus,11
+F,Intervertebral disc protrusion,11
+F,Hip fracture,11
+F,Fluid retention,11
+F,Sneezing,11
+F,Speech disorder,11
+F,Cholecystitis acute,11
+F,Gastric ulcer,11
+F,Bronchitis,11
+F,Corrective lens user,11
+F,Hepatitis,11
+F,Impaired work ability,11
+F,Expired product administered,11
+F,Therapeutic response decreased,11
+F,Injury,11
+F,Rheumatoid arthritis,11
+F,Blood sodium decreased,11
+F,Device failure,11
+F,Dysuria,11
+F,Product after taste,11
+F,Acne,11
+F,Spinal operation,11
+F,Rectal haemorrhage,11
+F,Diabetic retinopathy,10
+F,Nervous system disorder,10
+F,Aphasia,10
+F,Throat tightness,10
+F,Urine output decreased,10
+F,Flushing,10
+F,Aphonia,10
+F,Cystitis,10
+F,Pancreatitis necrotising,10
+F,Mass,10
+F,Retinal detachment,10
+F,Hiccups,10
+F,Ear infection,10
+F,Skin irritation,10
+F,Lymph node pain,10
+F,Drug effect less than expected,10
+F,Starvation ketoacidosis,10
+F,Eye swelling,10
+F,Lacrimation increased,10
+F,Gout,10
+F,Goitre,10
+F,Thinking abnormal,10
+F,Therapy change,10
+F,Upper respiratory tract infection,10
+F,Oedema peripheral,10
+F,Chronic gastritis,10
+F,Poor quality sleep,9
+F,Hyperaesthesia,9
+F,Appendicitis perforated,9
+F,Metabolic surgery,9
+F,Laryngitis,9
+F,Intestinal perforation,9
+F,Psychotic disorder,9
+F,Head injury,9
+F,Obstructive pancreatitis,9
+F,Hallucination,9
+F,Blister,9
+F,Bone pain,9
+F,Colon cancer,9
+F,Incorrect dose administered by product,9
+F,Wound,9
+F,Blood bilirubin increased,9
+F,Liver function test increased,9
+F,Hyponatraemia,9
+F,Multiple organ dysfunction syndrome,9
+F,Hysterectomy,9
+F,Lactic acidosis,9
+F,Food intolerance,9
+F,White blood cell count increased,9
+F,Eczema,9
+F,Paralysis,9
+F,Binge eating,9
+F,Accident,9
+F,Paranoia,9
+F,Multiple use of single-use product,9
+F,Cellulitis,9
+F,Anaphylactic shock,9
+F,Deafness,9
+F,Cardiac failure congestive,9
+F,Septic shock,9
+F,Blood urine present,9
+F,Productive cough,9
+F,Pancreatic cyst,9
+F,Night sweats,9
+F,Gastrointestinal haemorrhage,9
+F,Post procedural complication,9
+F,Medical procedure,9
+F,Hypoglycaemic unconsciousness,9
+F,Systemic lupus erythematosus,9
+F,Sinus disorder,9
+F,Hypoaesthesia oral,9
+F,Facial pain,8
+F,Periorbital swelling,8
+F,Eye haemorrhage,8
+F,Upper limb fracture,8
+F,Urinary retention,8
+F,Bile duct stone,8
+F,Hyperthyroidism,8
+F,Trigger finger,8
+F,Metabolic acidosis,8
+F,Joint injury,8
+F,Gastrointestinal inflammation,8
+F,Hepatic cancer,8
+F,Vitreous floaters,8
+F,Parkinson's disease,8
+F,Emotional disorder,8
+F,Brain injury,8
+F,Breast pain,8
+F,Hyperglycaemia,8
+F,Amenorrhoea,8
+F,Rotator cuff syndrome,8
+F,Lower limb fracture,8
+F,Procedural pain,8
+F,Autoimmune disorder,8
+F,Cholangitis,8
+F,Diverticulum intestinal,8
+F,Wrong dose,8
+F,Anger,8
+F,Hyperphagia,8
+F,Muscle strain,8
+F,Papilloedema,8
+F,Heart rate decreased,8
+F,Injection site haematoma,8
+F,Lower respiratory tract infection,8
+F,Skin sensitisation,8
+F,Wheezing,8
+F,Amylase increased,8
+F,Anhedonia,8
+F,Carbohydrate antigen 19-9 increased,7
+F,Nodule,7
+F,Spinal disorder,7
+F,Sleep apnoea syndrome,7
+F,Colitis ulcerative,7
+F,Diarrhoea haemorrhagic,7
+F,Blood magnesium decreased,7
+F,Cognitive disorder,7
+F,Respiratory tract infection,7
+F,Product availability issue,7
+F,Fear of injection,7
+F,Blood iron decreased,7
+F,Tooth loss,7
+F,Abnormal faeces,7
+F,Panic reaction,7
+F,Self-injurious ideation,7
+F,Breath odour,7
+F,Metastases to liver,7
+F,Limb operation,7
+F,Peripheral coldness,7
+F,Oral pain,7
+F,Salivary hypersecretion,7
+F,Ketosis,7
+F,Oxygen saturation decreased,7
+F,Nightmare,7
+F,Fracture,7
+F,Blood ketone body increased,7
+F,Pulmonary oedema,7
+F,Colonoscopy,7
+F,Cerebral haemorrhage,7
+F,Urine odour abnormal,7
+F,Dialysis,7
+F,Product prescribing issue,7
+F,Paraesthesia oral,7
+F,Cardiac flutter,7
+F,Pharyngitis streptococcal,7
+F,Product leakage,7
+F,Platelet count decreased,7
+F,Tenderness,7
+F,Cerebral infarction,7
+F,Back disorder,7
+F,Supraventricular tachycardia,7
+F,Pallor,7
+F,Ventricular extrasystoles,7
+F,Shoulder fracture,7
+F,Sciatica,7
+F,Flank pain,7
+F,Ophthalmic migraine,7
+F,Localised infection,6
+F,Pemphigoid,6
+F,Tooth fracture,6
+F,Upper-airway cough syndrome,6
+F,Cholecystitis infective,6
+F,Hypovolaemia,6
+F,Nerve compression,6
+F,Middle insomnia,6
+F,Product packaging difficult to open,6
+F,Lymphoedema,6
+F,Tension headache,6
+F,Visual acuity reduced,6
+F,Coma,6
+F,Polymenorrhoea,6
+F,Skin laceration,6
+F,Pancreatic failure,6
+F,Gastrointestinal motility disorder,6
+F,Heart rate abnormal,6
+F,Muscle tightness,6
+F,Injection site infection,6
+F,Functional gastrointestinal disorder,6
+F,Joint stiffness,6
+F,Eye infection,6
+F,Restless legs syndrome,6
+F,Metabolic disorder,6
+F,Carpal tunnel syndrome,6
+F,Inability to afford medication,6
+F,Orthostatic hypotension,6
+F,Oral candidiasis,6
+F,Injection site scar,6
+F,Ocular discomfort,6
+F,Retinopathy,6
+F,Mental impairment,6
+F,Gastrointestinal necrosis,6
+F,Pancreatic enzymes increased,6
+F,Impaired quality of life,6
+F,Foot operation,6
+F,Breast mass,6
+F,Eye operation,6
+F,Spinal fusion surgery,6
+F,Urinary incontinence,6
+F,Intercepted product storage error,6
+F,Polycystic ovarian syndrome,6
+F,Energy increased,6
+F,Defaecation urgency,6
+F,Dementia Alzheimer's type,6
+F,Oesophageal disorder,6
+F,Facial paralysis,6
+F,Type 2 diabetes mellitus,6
+F,Mouth swelling,6
+F,Chronic obstructive pulmonary disease,6
+F,Wernicke's encephalopathy,6
+F,Ulcer,6
+F,Depression suicidal,6
+F,Oral herpes,6
+F,Wrong patient received product,6
+F,Therapeutic response shortened,6
+F,Neck mass,6
+F,Product label issue,6
+F,Tendon rupture,6
+F,Dizziness postural,6
+F,Product used for unknown indication,6
+F,Musculoskeletal pain,6
+F,Injection site hypoaesthesia,6
+F,Oesophageal rupture,6
+F,Hepatic pain,6
+F,Body mass index increased,5
+F,Scratch,5
+F,Infrequent bowel movements,5
+F,Food allergy,5
+F,Wrong product administered,5
+F,Decreased interest,5
+F,Gastrointestinal hypomotility,5
+F,Glucose tolerance impaired,5
+F,Discoloured vomit,5
+F,Intentional overdose,5
+F,Bradycardia,5
+F,Drug delivery system issue,5
+F,Regurgitation,5
+F,Muscle rupture,5
+F,Blepharospasm,5
+F,Adverse reaction,5
+F,Unintended pregnancy,5
+F,Polyuria,5
+F,Endometrial cancer,5
+F,Pneumomediastinum,5
+F,Sinus tachycardia,5
+F,Glaucoma,5
+F,Blood alkaline phosphatase increased,5
+F,Circulatory collapse,5
+F,White blood cell count decreased,5
+F,Faeces soft,5
+F,Abscess,5
+F,Hypomagnesaemia,5
+F,Mesenteric lymphadenitis,5
+F,Eye pruritus,5
+F,Spinal pain,5
+F,Electrolyte imbalance,5
+F,Device breakage,5
+F,Haematuria,5
+F,Ovarian cyst,5
+F,Dysarthria,5
+F,Product prescribing error,5
+F,Stomatitis,5
+F,Toxicity to various agents,5
+F,Chapped lips,5
+F,Crohn's disease,5
+F,Maternal exposure during breast feeding,5
+F,Appendicectomy,5
+F,Sinus congestion,5
+F,Endometriosis,5
+F,Mucous stools,5
+F,Heart rate irregular,5
+F,Polyp,5
+F,Hypophosphataemia,5
+F,Oesophagitis,5
+F,Abnormal dreams,5
+F,Visual field defect,5
+F,Product dose omission in error,5
+F,Rash papular,5
+F,Thyroid hormones increased,5
+F,Gallbladder injury,5
+F,Treatment noncompliance,5
+F,Wheelchair user,5
+F,Injection site scab,5
+F,Skin ulcer,5
+F,Nerve injury,5
+F,Vitreous detachment,5
+F,Device difficult to use,5
+F,Hormone level abnormal,5
+F,Transaminases increased,5
+F,Sleep deficit,5
+F,Rhabdomyolysis,5
+F,Tubulointerstitial nephritis,5
+F,Aggression,5
+F,Blood test abnormal,5
+F,Coronary artery disease,5
+F,Hypoxia,5
+F,Renal injury,5
+F,Thyroid neoplasm,5
+F,Ovarian cyst ruptured,5
+F,Meniscus injury,5
+F,Intracranial aneurysm,5
+M,Incorrect dose administered,1181
+M,Nausea,619
+M,Injection site pain,577
+M,Diarrhoea,518
+M,Extra dose administered,506
+M,Vomiting,430
+M,Off label use,387
+M,Constipation,311
+M,Blood glucose increased,290
+M,Decreased appetite,283
+M,Weight decreased,271
+M,Injection site haemorrhage,264
+M,Inappropriate schedule of product administration,232
+M,Accidental underdose,212
+M,Abdominal pain upper,205
+M,Abdominal pain,171
+M,Product dose omission issue,170
+M,Accidental overdose,166
+M,Drug ineffective,159
+M,Dizziness,150
+M,Weight increased,150
+M,Injection site erythema,149
+M,Fatigue,145
+M,Abdominal discomfort,142
+M,Wrong technique in product usage process,137
+M,Dehydration,135
+M,Impaired gastric emptying,134
+M,Dyspepsia,124
+M,Injection site mass,124
+M,Eructation,122
+M,Headache,119
+M,Product use in unapproved indication,114
+M,Pancreatitis,114
+M,Flatulence,114
+M,Abdominal distension,108
+M,Visual impairment,98
+M,Illness,93
+M,Injection site bruising,91
+M,Asthenia,89
+M,Glycosylated haemoglobin increased,86
+M,Gastrointestinal disorder,85
+M,Intestinal obstruction,83
+M,Malaise,78
+M,Increased appetite,75
+M,Vision blurred,74
+M,Product storage error,72
+M,Blood glucose decreased,68
+M,Rash,68
+M,Pain,65
+M,Anxiety,64
+M,Hunger,63
+M,Depression,61
+M,Incorrect dose administered by device,60
+M,Gastrooesophageal reflux disease,59
+M,Device leakage,57
+M,Injection site injury,56
+M,Injection site swelling,56
+M,Hypoglycaemia,55
+M,Wrong technique in device usage process,55
+M,Acute kidney injury,54
+M,Product use issue,53
+M,Cough,53
+M,Suicidal ideation,52
+M,Back pain,51
+M,Pruritus,50
+M,Feeling abnormal,50
+M,Dyspnoea,49
+M,Product communication issue,49
+M,Insomnia,47
+M,Death,47
+M,Fall,46
+M,Hypoacusis,46
+M,Injection site pruritus,44
+M,Cerebrovascular accident,43
+M,Condition aggravated,43
+M,Ileus,43
+M,Optic ischaemic neuropathy,42
+M,Muscle spasms,41
+M,Accidental exposure to product,39
+M,Device malfunction,38
+M,Cholelithiasis,36
+M,Myalgia,35
+M,Nasopharyngitis,35
+M,Tremor,34
+M,Hypotension,33
+M,Arthralgia,33
+M,Feeding disorder,32
+M,Chest pain,32
+M,Pyrexia,31
+M,Loss of consciousness,31
+M,Syncope,31
+M,Myocardial infarction,30
+M,Injection site rash,30
+M,Depressed mood,30
+M,COVID-19,30
+M,Device use issue,30
+M,Drug dose omission by device,29
+M,Food craving,29
+M,Dysgeusia,28
+M,Blood pressure increased,28
+M,Small intestinal obstruction,28
+M,Atrial fibrillation,28
+M,Cataract,27
+M,Hospitalisation,27
+M,Somnolence,27
+M,Weight loss poor,27
+M,Hypertension,27
+M,Device delivery system issue,26
+M,Injection site reaction,26
+M,Memory impairment,26
+M,Taste disorder,26
+M,Overdose,26
+M,Drug intolerance,25
+M,Cholecystitis,25
+M,Adverse drug reaction,25
+M,Device issue,24
+M,Pancreatitis acute,24
+M,Lethargy,24
+M,Blindness,24
+M,Cardiac disorder,24
+M,Pulmonary embolism,23
+M,Urticaria,23
+M,Product administered at inappropriate site,23
+M,Therapy cessation,23
+M,Hiccups,23
+M,Gait disturbance,23
+M,Nephrolithiasis,22
+M,Needle issue,22
+M,Exposure via skin contact,22
+M,Retching,22
+M,Hypophagia,22
+M,Hyperhidrosis,22
+M,Influenza,22
+M,Neoplasm malignant,22
+M,Hypersensitivity,22
+M,Injection site discharge,22
+M,Paraesthesia,22
+M,Alopecia,21
+M,Pancreatic carcinoma,21
+M,Injection site irritation,21
+M,Blood glucose abnormal,21
+M,Blood pressure decreased,21
+M,Diabetes mellitus inadequate control,21
+M,Palpitations,21
+M,Product dispensing error,20
+M,Injection site discomfort,20
+M,Confusional state,20
+M,Injection site urticaria,20
+M,Sepsis,20
+M,Product tampering,19
+M,Injury associated with device,19
+M,Tachycardia,19
+M,Dry mouth,19
+M,Pain in extremity,19
+M,Muscle atrophy,19
+M,Heart rate increased,18
+M,Urinary tract infection,18
+M,Sensitive skin,18
+M,Renal disorder,17
+M,Erectile dysfunction,17
+M,Seizure,17
+M,Chest discomfort,17
+M,Injection site coldness,17
+M,Malnutrition,17
+M,Neuropathy peripheral,16
+M,Pneumonia,16
+M,Dysphagia,16
+M,Chills,16
+M,Renal impairment,16
+M,Diabetic ketoacidosis,16
+M,Drug interaction,16
+M,Blood glucose fluctuation,16
+M,Lipase increased,15
+M,Injection site vesicles,15
+M,Blindness unilateral,15
+M,Bowel movement irregularity,15
+M,Burning sensation,15
+M,Gastritis,15
+M,Peripheral swelling,15
+M,Unevaluable event,15
+M,Brain fog,15
+M,Diverticulitis,15
+M,Dysphonia,14
+M,Discomfort,14
+M,Surgery,14
+M,"Sleep disorder due to general medical condition, insomnia type",14
+M,Product quality issue,14
+M,Pancreatitis necrotising,14
+M,Hypoaesthesia,14
+M,Disability,14
+M,Intentional dose omission,13
+M,Drug hypersensitivity,13
+M,Colitis,13
+M,Road traffic accident,12
+M,Skin burning sensation,12
+M,Balance disorder,12
+M,Product label confusion,12
+M,Contusion,12
+M,Ageusia,12
+M,Vertigo,12
+M,Deep vein thrombosis,12
+M,Irritability,12
+M,Jaundice,12
+M,Chromaturia,12
+M,Renal failure,12
+M,Frequent bowel movements,11
+M,Nervousness,11
+M,Multiple use of single-use product,11
+M,Suspected counterfeit product,11
+M,Gout,11
+M,Product packaging quantity issue,11
+M,Gastrointestinal pain,11
+M,Diabetes mellitus,11
+M,Glycosylated haemoglobin decreased,11
+M,Cold sweat,11
+M,Migraine,11
+M,Pollakiuria,11
+M,Spinal operation,10
+M,Injection site indentation,10
+M,Device defective,10
+M,Gastroenteritis viral,10
+M,Glomerular filtration rate decreased,10
+M,Blood creatinine increased,10
+M,Cholecystectomy,10
+M,Neuralgia,10
+M,Completed suicide,10
+M,Eye disorder,10
+M,Pneumonia aspiration,10
+M,Muscular weakness,10
+M,Chronic kidney disease,10
+M,Appendicitis,10
+M,Cardiac failure,10
+M,Diabetic retinopathy,10
+M,Influenza like illness,10
+M,Erythema,9
+M,White blood cell count increased,9
+M,Allodynia,9
+M,Oropharyngeal pain,9
+M,Arthritis,9
+M,General physical health deterioration,9
+M,Deafness,9
+M,Euglycaemic diabetic ketoacidosis,9
+M,Haematemesis,9
+M,Gastroenteritis,9
+M,Mood altered,9
+M,No adverse event,9
+M,Speech disorder,9
+M,Eye pain,9
+M,Eating disorder,9
+M,Biliary colic,9
+M,Prostate cancer,9
+M,Hernia,8
+M,Oedema peripheral,8
+M,Underdose,8
+M,Cholangitis,8
+M,Blood triglycerides increased,8
+M,Feeling hot,8
+M,Hepatic enzyme increased,8
+M,Cardiac operation,8
+M,Cardiac arrest,8
+M,Transient ischaemic attack,8
+M,Intentional product misuse,8
+M,Tinnitus,8
+M,Metabolic acidosis,8
+M,Gallbladder disorder,8
+M,Cataract operation,8
+M,Bile duct stone,8
+M,Sleep disorder,8
+M,Head injury,8
+M,Multiple organ dysfunction syndrome,8
+M,Knee arthroplasty,8
+M,Infrequent bowel movements,8
+M,Arthropathy,8
+M,Cellulitis,7
+M,Neck pain,7
+M,Ill-defined disorder,7
+M,Alanine aminotransferase increased,7
+M,Faeces discoloured,7
+M,Rectal haemorrhage,7
+M,Rotator cuff syndrome,7
+M,Pallor,7
+M,Pancreatic disorder,7
+M,Injury,7
+M,Amnesia,7
+M,Injection site discolouration,7
+M,Device failure,7
+M,Presyncope,7
+M,Abnormal dreams,7
+M,Anaemia,7
+M,Suicide attempt,7
+M,Agitation,7
+M,Cardiac failure congestive,7
+M,Sinusitis,7
+M,Fluid intake reduced,7
+M,Product availability issue,7
+M,Seasonal allergy,7
+M,Incorrect route of product administration,7
+M,Infection,7
+M,Panic attack,7
+M,Dyspnoea exertional,7
+M,Swelling,7
+M,Angioedema,7
+M,Retinal detachment,7
+M,Injection site paraesthesia,7
+M,Obstructive pancreatitis,7
+M,Hepatic cancer,7
+M,Food poisoning,7
+M,Injection site hypersensitivity,7
+M,Pain of skin,7
+M,Rash pruritic,7
+M,Liver disorder,6
+M,Skin irritation,6
+M,Musculoskeletal discomfort,6
+M,Renal pain,6
+M,Joint swelling,6
+M,Dermatitis allergic,6
+M,Asthma,6
+M,Restlessness,6
+M,Heart rate irregular,6
+M,Thrombosis,6
+M,Thrombocytopenia,6
+M,Amylase increased,6
+M,Mental disorder,6
+M,Aggression,6
+M,Pancreatic carcinoma metastatic,6
+M,Aspiration,6
+M,Dry eye,6
+M,Gastrointestinal sounds abnormal,6
+M,Ear pain,6
+M,Sudden death,6
+M,Haematochezia,6
+M,Pulmonary oedema,6
+M,Anger,6
+M,Mood swings,6
+M,Colonoscopy,6
+M,Cerebral infarction,6
+M,Night sweats,6
+M,Product use complaint,6
+M,Rib fracture,6
+M,Acute cholecystitis necrotic,6
+M,Sleep apnoea syndrome,6
+M,Hypokalaemia,6
+M,Staphylococcal infection,6
+M,Urinary retention,6
+M,Arrhythmia,6
+M,Therapy interrupted,6
+M,Hyperglycaemia,6
+M,Product prescribing error,6
+M,Dysarthria,6
+M,Injection site warmth,6
+M,Lactic acidosis,6
+M,Choking,6
+M,Vitreous floaters,6
+M,Epilepsy,6
+M,Medication error,6
+M,Abnormal loss of weight,6
+M,Injection site nodule,6
+M,Glaucoma,6
+M,Anal incontinence,6
+M,Blood cholesterol increased,6
+M,Upper limb fracture,6
+M,Vomiting projectile,5
+M,Swelling face,5
+M,Aspartate aminotransferase increased,5
+M,Therapy change,5
+M,Feeling jittery,5
+M,Blood creatine phosphokinase increased,5
+M,Toxicity to various agents,5
+M,Haemorrhage,5
+M,Hypoglycaemic unconsciousness,5
+M,Anhedonia,5
+M,Drug effect less than expected,5
+M,Product preparation error,5
+M,Retinal haemorrhage,5
+M,Counterfeit product administered,5
+M,Coronary artery occlusion,5
+M,Meniscus injury,5
+M,Device mechanical issue,5
+M,Hyperkalaemia,5
+M,Oesophagitis,5
+M,Appetite disorder,5
+M,Lip swelling,5
+M,Prescription drug used without a prescription,5
+M,Respiratory failure,5
+M,Hyperphagia,5
+M,Product packaging issue,5
+M,Blood urine present,5
+M,Expired product administered,5
+M,Diarrhoea haemorrhagic,5
+M,Disturbance in attention,5
+M,Hiatus hernia,5
+M,Localised infection,5
+M,Poor quality sleep,5
+M,Thyroid cancer,5
+M,Epigastric discomfort,5
+M,Dementia,5
+M,Cholecystitis acute,5
+M,Epistaxis,5
+M,Hydronephrosis,5
+M,Obesity,5
+M,Feeling cold,5
+M,Macular degeneration,5
+M,Anaphylactic reaction,5
+M,Neoplasm,5
+M,Abdominal pain lower,5
+M,Circulatory collapse,5
+M,Colon cancer,5
+M,Eye pruritus,5
+M,Metastases to liver,5
+M,Psychotic disorder,5
+M,Lack of satiety,5
+M,Dry skin,5
+M,Hypersomnia,5
+M,Mass,5
+M,Lung neoplasm malignant,5
+M,Ocular hyperaemia,5
+M,Nerve compression,5
+M,Liver function test abnormal,5
