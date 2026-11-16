@@ -120,7 +120,7 @@ def compute_disproportionality(con: duckdb.DuckDBPyConnection):
         # ROR = (a*d) / (b*c)
         ror = (a * d) / (b * c)
 
-        # 95% CI for log(ROR) — Gart's method
+        # 95% CI for log(ROR) — Woolf (log) method
         log_ror = np.log(ror)
         se_log_ror = np.sqrt(1/a + 1/b + 1/c + 1/d)
         ror_lo = np.exp(log_ror - 1.96 * se_log_ror)

@@ -21,7 +21,7 @@ The antidepressant safety profile is the most clinically severe of the three dru
 
 Some antidepressant safety signals are well-established and appear prominently in the data:
 
-**Suicidal ideation** — 321 reports (PRR = 9.2). **Suicide attempt** — 291 reports (PRR = 15.0). Together, over 600 reports of suicidality in six months. Antidepressants carry a black box warning for increased suicidality in young adults — the FAERS data confirms this signal remains active and robust. The PRR of 15 for suicide attempts means this event is reported 15 times more often for antidepressants than for drugs overall.
+**Suicidal ideation** — 321 reports (PRR = 9.2). **Suicide attempt** — 291 reports (PRR = 15.0). Together, over 600 reports of suicidality in six months. Antidepressants carry a black box warning for increased suicidality in young adults — the FAERS data shows the reports continue. The PRR of 15 for suicide attempts means this event makes up a 15 times larger share of antidepressant reports than of reports for other drugs. Depression itself raises suicide risk, so this ratio cannot separate the drug from the illness (confounding by indication).
 
 **Serotonin syndrome** — 266 reports (PRR = 46.3). A potentially life-threatening condition caused by excess serotonergic activity, often triggered by drug interactions. The strong disproportionality signal (reported 46 times more often than expected) underscores the real-world risk of combining serotonergic agents.
 
@@ -35,9 +35,9 @@ The most striking finding is also the most underreported in clinical practice.
 
 **Sexual dysfunction** — 157 reports (PRR = 72.6). **Genital anaesthesia** — 18 reports (PRR = 458.0). **Female orgasmic disorder** — 10 reports (PRR = 381.7). **Orgasmic sensation decreased** — 12 reports (PRR = 458.0).
 
-Read those PRR values again. Genital anaesthesia is reported **458 times more often** for antidepressants than for other drugs. These are not background noise. These are among the strongest disproportionality signals in the entire FAERS database.
+Read those PRR values with their counts. Genital anaesthesia makes up a 458 times larger share of antidepressant reports than of reports for other drugs, but the three highest ratios each rest on 10 to 18 reports against 2 or 3 in the background, so the exact ratios are unstable. The sturdier number is sexual dysfunction: 157 reports, PRR 73.
 
-Prospective studies using direct inquiry find SSRI-induced sexual dysfunction in 40–73% of patients (Montejo et al.), far higher than the 15–25% reported in clinical trials that relied on spontaneous reporting. The condition can persist after discontinuation — a phenomenon known as Post-SSRI Sexual Dysfunction (PSSD) that the European Medicines Agency formally recognized in 2019, now with over 24 PubMed-indexed publications.
+Prospective studies using direct inquiry find SSRI-induced sexual dysfunction in 40–73% of patients (Montejo et al.), far higher than the 15–25% reported in clinical trials that relied on spontaneous reporting. The condition can persist after discontinuation — a phenomenon known as Post-SSRI Sexual Dysfunction (PSSD) that the European Medicines Agency formally recognized in 2019.
 
 The FAERS data suggests that when patients do report sexual side effects, the severity is profound — not just "decreased libido" but complete loss of genital sensation and orgasmic function. These reports are disproportionately from patients who felt their clinical team dismissed or minimized their symptoms.
 
@@ -50,9 +50,9 @@ The FAERS data suggests that when patients do report sexual side effects, the se
 
 **Antidepressant discontinuation syndrome** — 19 reports (PRR = 1,450.3). **Withdrawal syndrome** — 181 reports (PRR = 17.5).
 
-A PRR of 1,450 is extraordinary. This is by far the strongest signal in the entire antidepressant dataset. Discontinuation syndrome — dizziness, nausea, "brain zaps," irritability, insomnia, and flu-like symptoms — occurs when patients stop or rapidly taper their antidepressant.
+A PRR of 1,450 is the largest ratio in the antidepressant dataset, and it needs a caveat: it rests on 19 reports against a single report in the rest of the database (95% CI 194 to 10,833), and the event is named after the drug class, so it is rarely filed under any other drug. Treat the size of the ratio as an artifact; the 181 withdrawal syndrome reports are the sturdier evidence. Discontinuation syndrome — dizziness, nausea, "brain zaps," irritability, insomnia, and flu-like symptoms — occurs when patients stop or rapidly taper their antidepressant.
 
-For decades, the psychiatric establishment maintained that antidepressants were "not addictive" and that discontinuation effects were mild and brief. Recent research has challenged this narrative. Davies and Read (2019, *Addictive Behaviors*) reviewed 14 studies and found discontinuation symptoms in approximately 56% of patients, with 46% rating symptoms as severe. A 2024 meta-analysis in *The Lancet Psychiatry* provided updated incidence figures confirming the scope of the problem.
+For decades, the psychiatric establishment maintained that antidepressants were "not addictive" and that discontinuation effects were mild and brief. Recent research has challenged this narrative. Davies and Read (2019, *Addictive Behaviors*) reviewed 14 studies and found discontinuation symptoms in approximately 56% of patients, with 46% rating symptoms as severe. A larger 2024 meta-analysis in *The Lancet Psychiatry* (Henssler et al., 79 studies) put the figure much lower: about 15% of patients once symptoms in placebo groups are accounted for, with severe symptoms in about 3%. The true incidence is contested; that it happens is not.
 
 The FAERS data, though limited by spontaneous reporting, aligns with the emerging picture: for some patients, getting off antidepressants is harder than getting on them.
 
