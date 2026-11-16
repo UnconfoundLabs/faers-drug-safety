@@ -1,24 +1,24 @@
 drug_class,reaction,n,pct,rank
-ADHD,Drug ineffective,663,6.1,1
-ADHD,Product substitution issue,237,2.18,2
-ADHD,Product availability issue,218,2.01,3
-ADHD,Headache,196,1.8,4
-ADHD,Fatigue,171,1.57,5
-ADHD,Anxiety,151,1.39,6
-ADHD,Nausea,148,1.36,7
-ADHD,Insomnia,138,1.27,8
-ADHD,Toxicity to various agents,133,1.22,9
-ADHD,Off label use,124,1.14,10
-ADHD,Product use issue,114,1.05,11
-ADHD,Inability to afford medication,111,1.02,12
-ADHD,Feeling abnormal,106,0.98,13
-ADHD,Somnolence,105,0.97,14
-ADHD,Disturbance in attention,101,0.93,15
-ADHD,Therapeutic response changed,100,0.92,16
-ADHD,Depression,99,0.91,17
-ADHD,Treatment failure,98,0.9,18
-ADHD,Decreased appetite,95,0.87,19
-ADHD,Drug abuse,93,0.86,20
+ADHD,Drug ineffective,635,6.15,1
+ADHD,Product substitution issue,236,2.29,2
+ADHD,Product availability issue,217,2.1,3
+ADHD,Headache,192,1.86,4
+ADHD,Fatigue,165,1.6,5
+ADHD,Anxiety,149,1.44,6
+ADHD,Nausea,146,1.41,7
+ADHD,Insomnia,134,1.3,8
+ADHD,Toxicity to various agents,124,1.2,9
+ADHD,Off label use,119,1.15,10
+ADHD,Product use issue,113,1.09,11
+ADHD,Inability to afford medication,111,1.08,12
+ADHD,Feeling abnormal,105,1.02,13
+ADHD,Somnolence,102,0.99,14
+ADHD,Disturbance in attention,101,0.98,15
+ADHD,Therapeutic response changed,99,0.96,16
+ADHD,Depression,98,0.95,17
+ADHD,Decreased appetite,95,0.92,18
+ADHD,Treatment failure,95,0.92,19
+ADHD,Suicidal ideation,90,0.87,20
 ANTIDEPRESSANT,Drug ineffective,726,1.96,1
 ANTIDEPRESSANT,Nausea,715,1.93,2
 ANTIDEPRESSANT,Dizziness,538,1.45,3

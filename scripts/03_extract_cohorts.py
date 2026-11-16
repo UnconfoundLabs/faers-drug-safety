@@ -17,13 +17,18 @@ DRUG_CLASSES = {
         "generic": [
             "METHYLPHENIDATE", "AMPHETAMINE", "DEXTROAMPHETAMINE",
             "LISDEXAMFETAMINE", "ATOMOXETINE", "GUANFACINE",
-            "CLONIDINE",  # also used for ADHD
+            # Clonidine removed 2026-11: in FAERS it is overwhelmingly a
+            # blood-pressure / pain drug, not an ADHD treatment.
         ],
+        # Substring matches that must NOT count as this class.
+        # '%AMPHETAMINE%' would otherwise sweep in methamphetamine
+        # (drug-abuse reports, not ADHD treatment).
+        "exclude": ["METHAMPHETAMINE", "METAMFETAMINE"],
         "brand": [
             "RITALIN", "CONCERTA", "FOCALIN", "DAYTRANA", "QUILLIVANT",
             "ADDERALL", "VYVANSE", "DEXEDRINE",
             "STRATTERA", "QELBREE",  # viloxazine
-            "INTUNIV", "KAPVAY", "TENEX",
+            "INTUNIV", "TENEX",
             "JORNAY", "APTENSIO", "COTEMPLA", "AZSTARYS",
         ],
     },
@@ -82,7 +87,17 @@ def build_match_clause(drug_class: dict) -> str:
     for name in drug_class["generic"]:
         conditions.append(f"UPPER(COALESCE(prod_ai, '')) LIKE '%{name}%'")
 
-    return " OR ".join(conditions)
+    match = "(" + " OR ".join(conditions) + ")"
+
+    excluded = drug_class.get("exclude", [])
+    if excluded:
+        not_conditions = []
+        for name in excluded:
+            not_conditions.append(f"UPPER(drugname) LIKE '%{name}%'")
+            not_conditions.append(f"UPPER(COALESCE(prod_ai, '')) LIKE '%{name}%'")
+        match += " AND NOT (" + " OR ".join(not_conditions) + ")"
+
+    return match
 
 
 def main():

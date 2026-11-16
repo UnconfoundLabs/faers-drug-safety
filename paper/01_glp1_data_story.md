@@ -8,7 +8,7 @@
 
 Mounjaro. Ozempic. Wegovy. Zepbound. These names have moved from endocrinology clinics to dinner table conversations in under three years. GLP-1 receptor agonists — originally developed for type 2 diabetes — have become the most talked-about drug class in a generation, driven by their dramatic efficacy for weight loss.
 
-The FDA's adverse event data tells the same story from a different angle. In just two quarters of 2024, GLP-1 agonists generated **30,271 adverse event reports** — dwarfing antidepressants (10,145) and ADHD medications (3,273) combined. Mounjaro alone accounted for over 11,000 reports. Zepbound, approved for weight loss in late 2023, already had 6,610.
+The FDA's adverse event data tells the same story from a different angle. In just two quarters of 2024, GLP-1 agonists generated **30,271 adverse event reports** — dwarfing antidepressants (10,145) and ADHD medications (3,088) combined. Mounjaro alone accounted for over 11,000 reports. Zepbound, approved for weight loss in late 2023, already had 6,610.
 
 This is not necessarily alarming. More prescriptions mean more reports. But the *pattern* of what's being reported — and by whom — reveals something important about how this drug class is being used in the real world.
 
@@ -59,7 +59,7 @@ Disproportionality analysis — comparing how often an adverse event is reported
 
 **Impaired gastric emptying** — 733 reports, PRR = 55.3. This is the gastroparesis signal that has generated media attention and lawsuits. GLP-1 agonists work in part by slowing gastric motility; for some patients, this mechanism overshoots into clinical gastroparesis. The disproportionality ratio is massive — this event is reported 55 times more often for GLP-1 agonists than for other drugs.
 
-**Medullary thyroid cancer** — 12 reports, PRR = 299.0. A known risk from preclinical studies in rodents, GLP-1 agonists carry a boxed warning for thyroid C-cell tumors. While 12 cases is a small number, the extreme disproportionality ratio confirms this signal is real, not noise.
+**Medullary thyroid cancer** — 12 reports, PRR = 299.0. A known risk from preclinical studies in rodents, GLP-1 agonists carry a boxed warning for thyroid C-cell tumors. Twelve reports against one in the background is too few to pin down the ratio (95% CI 39 and up), and a boxed warning itself prompts reporting. The data is consistent with the labeled risk; it does not add independent confirmation.
 
 **Pancreatitis** — 335 reports, PRR = 6.4. Another known but debated risk. The FAERS data shows it's being reported at 6 times the background rate.
 
@@ -67,7 +67,7 @@ Disproportionality analysis — comparing how often an adverse event is reported
 
 **Blood glucose changes** — Both increased (941 reports, PRR = 5.6) and decreased (276, PRR = 7.8). For a drug class that modulates glucose, swings in both directions are being reported.
 
-**Optic ischaemic neuropathy (NAION)** — 86 reports (PRR = 33.5). This is an emerging and potentially serious signal. A 2024 study in *JAMA Ophthalmology* (Hathaway et al.) found semaglutide users had a significantly elevated risk of non-arteritic anterior ischaemic optic neuropathy (HR ~4.3) in a retrospective cohort analysis. NAION can cause sudden, irreversible vision loss. The mechanism is unclear but may relate to rapid weight loss, hemodynamic changes, or direct vascular effects. The FDA is actively monitoring this signal.
+**Optic ischaemic neuropathy (NAION)** — 86 reports (PRR = 33.5). This is an emerging and potentially serious signal. A 2024 study in *JAMA Ophthalmology* (Hathaway et al.) found semaglutide users had a significantly elevated risk of non-arteritic anterior ischaemic optic neuropathy (HR ~4.3) in a retrospective cohort analysis. NAION can cause sudden, irreversible vision loss. The mechanism is unclear but may relate to rapid weight loss, hemodynamic changes, or direct vascular effects. This signal has since been under regulatory review.
 
 ![Safety Signals](../output/figures/05_safety_signals.png)
 *Figure 5: Strongest safety signals by Reporting Odds Ratio (ROR), with 95% confidence intervals.*
@@ -109,7 +109,7 @@ The GLP-1 revolution is real. But so are its side effects — and the system tha
 
 **Drug matching:** GLP-1 agonists identified by generic name (semaglutide, liraglutide, tirzepatide, dulaglutide, exenatide, lixisenatide) and brand name in the drugname and prod_ai fields.
 
-**Disproportionality analysis:** Proportional Reporting Ratio (PRR) and Reporting Odds Ratio (ROR) computed from 2×2 contingency tables (drug × event vs. all other drugs × event). 95% confidence intervals for ROR computed using Gart's method. Chi-square test with Yates' correction. Signal threshold: PRR ≥ 2, χ² ≥ 4, n ≥ 3, lower 95% CI of PRR > 1.
+**Disproportionality analysis:** Proportional Reporting Ratio (PRR) and Reporting Odds Ratio (ROR) computed from 2×2 contingency tables (drug × event vs. all other drugs × event). 95% confidence intervals for ROR computed on the log scale (Woolf method). Chi-square test with Yates' correction. Signal threshold: PRR ≥ 2, χ² ≥ 4, n ≥ 3, lower 95% CI of PRR > 1.
 
 **Limitations:** FAERS is a spontaneous reporting system — it cannot establish causation, calculate incidence rates, or estimate risk. Reporting is voluntary and subject to stimulated reporting (media attention increases reports). The high consumer-report proportion may reflect media-driven awareness rather than clinical severity. Duplicate reports were reduced but not eliminated entirely.
 

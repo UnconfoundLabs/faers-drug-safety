@@ -1,10 +1,10 @@
 drug_class,outcome,n
-ADHD,Other serious,1056
-ADHD,Hospitalization,392
-ADHD,Death,140
-ADHD,Life-threatening,97
-ADHD,Disability,54
-ADHD,Required intervention,19
+ADHD,Other serious,971
+ADHD,Hospitalization,361
+ADHD,Death,132
+ADHD,Life-threatening,92
+ADHD,Disability,53
+ADHD,Required intervention,17
 ADHD,Congenital anomaly,5
 ANTIDEPRESSANT,Other serious,5194
 ANTIDEPRESSANT,Hospitalization,2329
