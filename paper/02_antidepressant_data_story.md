@@ -10,7 +10,7 @@ Antidepressants are among the most widely prescribed drug classes in the United 
 
 In Q3–Q4 2024, the FDA received **10,145 adverse event reports** where an antidepressant was the primary suspect drug. Sertraline (Zoloft) led with 1,268 reports, followed by bupropion (including the combination product Contrave), venlafaxine (Effexor), and escitalopram (Lexapro).
 
-The antidepressant safety profile is the most clinically severe of the three drug classes we examined. Nearly **45% of reports included a serious outcome** — hospitalization, life-threatening event, disability, or death. That is more than double the serious outcome rate for GLP-1 agonists (13%).
+The antidepressant safety profile is the most clinically severe of the three drug classes we examined. **38% of reports included a named serious outcome** — hospitalization, life-threatening event, disability, death, congenital anomaly, or required intervention. That is three times the rate for GLP-1 agonists (12.5%). Counting the catch-all "other serious" code as well, the figures are 69% and 28%.
 
 ![Outcomes](../output/figures/06_outcomes.png)
 *Figure 6: Serious outcome profile by drug class. Antidepressants have the highest rate of serious events.*
@@ -83,7 +83,7 @@ Antidepressants save lives. They remain a cornerstone of mental health treatment
 2. **Discontinuation is real and often severe** — the highest disproportionality signal in the dataset (PRR = 1,450) demands honest informed consent about the difficulty of stopping treatment
 3. **Suicidality signals remain active** — 600+ reports of suicidal ideation and attempts in six months underscore the need for close monitoring, especially during initiation and dose changes
 4. **Drug interactions are the hidden hazard** — in an era of polypharmacy, 446 interaction reports in six months is a pharmacist and prescriber concern
-5. **The serious outcome rate is the highest of all three classes** — 45% of reports involve hospitalization, life-threatening events, disability, or death
+5. **The serious outcome rate is the highest of all three classes** — 38% of reports involve hospitalization, life-threatening events, disability, or death
 
 Patients taking antidepressants deserve a more honest conversation about what these medications do — both the benefits and the costs.
 

@@ -8,7 +8,7 @@
 
 Mounjaro. Ozempic. Wegovy. Zepbound. These names have moved from endocrinology clinics to dinner table conversations in under three years. GLP-1 receptor agonists — originally developed for type 2 diabetes — have become the most talked-about drug class in a generation, driven by their dramatic efficacy for weight loss.
 
-The FDA's adverse event data tells the same story from a different angle. In just two quarters of 2024, GLP-1 agonists generated **30,271 adverse event reports** — dwarfing antidepressants (10,145) and ADHD medications (3,273) combined. Mounjaro alone accounted for over 11,000 reports. Zepbound, approved for weight loss in late 2023, already had 6,610.
+The FDA's adverse event data tells the same story from a different angle. In just two quarters of 2024, GLP-1 agonists generated **30,271 adverse event reports** — dwarfing antidepressants (10,145) and ADHD medications (3,088) combined. Mounjaro alone accounted for over 11,000 reports. Zepbound, approved for weight loss in late 2023, already had 6,610.
 
 This is not necessarily alarming. More prescriptions mean more reports. But the *pattern* of what's being reported — and by whom — reveals something important about how this drug class is being used in the real world.
 

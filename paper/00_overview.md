@@ -12,7 +12,7 @@ We analyzed 784,523 deduplicated adverse event reports submitted to the FDA in Q
 |---|---|---|---|
 | **GLP-1 Agonists** | 30,271 | Gastroparesis (PRR = 55) | Rapid adoption outpacing safety monitoring |
 | **Antidepressants** | 10,145 | Sexual dysfunction (PRR = 458) | Undertreated side effects in a widely prescribed class |
-| **ADHD Medications** | 3,273 | Supply/access issues (PRR = 44) | A system crisis masquerading as pharmacovigilance data |
+| **ADHD Medications** | 3,088 | Supply/access issues (PRR = 46) | A system crisis masquerading as pharmacovigilance data |
 
 Each class tells a different story — but together, they reveal common patterns in how drug safety monitoring works and where it fails.
 

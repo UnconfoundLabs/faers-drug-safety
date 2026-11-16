@@ -8,7 +8,7 @@ Comparative pharmacovigilance analysis of three drug classes using FDA Adverse E
 |---|---|---|
 | **GLP-1 Agonists** | 30,271 | Gastroparesis signal (PRR=55), dosing errors as #1 event |
 | **Antidepressants** | 10,145 | Sexual dysfunction (PRR=458), highest serious outcome rate |
-| **ADHD Medications** | 3,273 | Supply/affordability crisis visible in safety data |
+| **ADHD Medications** | 3,088 | Supply/affordability crisis visible in safety data |
 
 ## Data Stories
 

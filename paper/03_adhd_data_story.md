@@ -8,7 +8,7 @@
 
 Open the FDA's adverse event database for ADHD medications and you expect to find side effects: insomnia, appetite loss, anxiety, cardiovascular concerns. You find all of those. But the top signals tell a different story — one that has less to do with pharmacology and more to do with a system in crisis.
 
-The **#2 most reported event** for ADHD medications is "product substitution issue" (237 reports, PRR = 44.0). **#3** is "product availability issue" (218 reports, PRR = 22.6). **#6** is "inability to afford medication" (111 reports, PRR = 33.4). **#10** is "therapeutic response changed" (100 reports, PRR = 148.3).
+The **#2 most reported event** for ADHD medications is "product substitution issue" (236 reports, PRR = 46.4). **#3** is "product availability issue" (217 reports, PRR = 23.9). Further down the list are "inability to afford medication" (111 reports, PRR = 35.4) and "therapeutic response changed" (99 reports, PRR = 154.6).
 
 These are not pharmacological adverse events. They are system failures showing up in a safety database — because patients had nowhere else to report them.
 
@@ -20,9 +20,9 @@ Since late 2022, the United States has faced a persistent shortage of stimulant 
 
 The FAERS data captures the downstream consequences:
 
-- **Product substitution issues** (PRR = 44.0): Patients forced to switch between generics, between formulations, or between entirely different medications when their usual drug is unavailable. Each substitution is effectively a medication change without clinical intent.
-- **Therapeutic response changed** (PRR = 148.3): When patients switch to a different generic manufacturer or formulation, the "same" medication can feel different. Different inactive ingredients, different release profiles, different bioavailability within allowable ranges — all of which matter for a drug class with narrow therapeutic windows.
-- **Product quality issues** (72 reports, PRR = 9.1) and **product physical issues** (68 reports, PRR = 20.1): Reports of pills that look different, taste different, or dissolve differently — often tied to unfamiliar generic manufacturers that ramped up production during the shortage.
+- **Product substitution issues** (PRR = 46.4): Patients forced to switch between generics, between formulations, or between entirely different medications when their usual drug is unavailable. Each substitution is effectively a medication change without clinical intent.
+- **Therapeutic response changed** (PRR = 154.6): When patients switch to a different generic manufacturer or formulation, the "same" medication can feel different. Different inactive ingredients, different release profiles, different bioavailability within allowable ranges — all of which matter for a drug class with narrow therapeutic windows.
+- **Product quality issues** (67 reports, PRR = 9.0) and **product physical issues** (68 reports, PRR = 21.4): Reports of pills that look different, taste different, or dissolve differently — often tied to unfamiliar generic manufacturers that ramped up production during the shortage.
 
 The total picture: nearly **700 reports** (over 20% of all ADHD adverse event reports) relate not to what the drug does, but to whether patients can get it at all.
 
@@ -30,9 +30,9 @@ The total picture: nearly **700 reports** (over 20% of all ADHD adverse event re
 
 ## The Affordability Signal
 
-**Inability to afford medication** — 111 reports (PRR = 33.4). **Insurance issue** — 73 reports (PRR = 9.9).
+**Inability to afford medication** — 111 reports (PRR = 35.4). **Insurance issue** — 73 reports (PRR = 10.5).
 
-These are among the strongest disproportionality signals in the dataset. Patients are filing FDA adverse event reports because they cannot pay for their medication. The PRR of 33 means this event is reported **33 times more often** for ADHD medications than for drugs overall.
+These are among the strongest disproportionality signals in the dataset. Patients are filing FDA adverse event reports because they cannot pay for their medication. The PRR of 35 means this event makes up a 35 times larger share of ADHD medication reports than of reports for other drugs.
 
 This is almost certainly an undercount. The patients who can't afford their medication are also the least likely to know about or navigate the FDA's reporting system. What shows up in FAERS is the visible fraction of a much larger access crisis.
 
@@ -49,44 +49,44 @@ ADHD medications are disproportionately affected because:
 Beyond the access crisis, ADHD medications produce a distinct safety profile:
 
 **Psychiatric effects** are prominent:
-- **Anxiety** — 151 reports (PRR = 3.8)
-- **Insomnia** — 138 reports (PRR = 3.3)
-- **Depression** — 99 reports (PRR = 3.5)
-- **Suicidal ideation** — 92 reports (PRR = 7.6)
-- **Irritability** — 75 reports (PRR = 11.9)
-- **Aggression** — 73 reports (PRR = 12.6)
+- **Anxiety** — 149 reports (PRR = 4.0)
+- **Insomnia** — 134 reports (PRR = 3.3)
+- **Depression** — 98 reports (PRR = 3.7)
+- **Suicidal ideation** — 90 reports (PRR = 7.8)
+- **Irritability** — 73 reports (PRR = 12.2)
+- **Aggression** — 71 reports (PRR = 13.0)
 
 Stimulants are dopamine and norepinephrine reuptake inhibitors. Their psychiatric side effects — anxiety, mood changes, irritability — are mechanistically expected but still clinically significant, particularly in children and adolescents.
 
 **Abuse potential** surfaces clearly:
-- **Drug abuse** — 93 reports (PRR = 10.8)
+- **Drug abuse** — 74 reports (PRR = 9.0)
 - **Intentional overdose** — not in the top signals but present
 
 **The cardiac valve signal** is the most instructive finding in this dataset — not for what it says about pharmacology, but for what it reveals about how safety signals propagate.
 
-- **Cardiac valve disease** — 57 reports (PRR = 80.5)
-- **Palpitations** — 60 reports (PRR = 3.7)
+- **Cardiac valve disease** — 57 reports (PRR = 85.4)
+- **Palpitations** — 58 reports (PRR = 3.8)
 
-A PRR of 80.5 for cardiac valve disease demands investigation. When we examined the 57 cases individually, we found:
+A PRR of 85.4 for cardiac valve disease demands investigation. When we examined the 57 cases individually, we found:
 
 - **All 57 are from France.** Not a single case from the U.S. or any other country.
-- **All 57 cite the same publication:** Ayme-Dietrich et al., "Use of methylphenidate and reporting of valvular heart disease: Global pharmacovigilance analysis in children and adults," *Pharmacoepidemiology and Drug Safety*, 2024.
-- **All 57 were submitted by generic methylphenidate manufacturers** (Mylan, Strides, Aurobindo, Ranbaxy) within a two-month window (July–September 2024).
+- **54 of the 57 cite the same publication** (the other 3 are Concerta reports with no reference): Ayme-Dietrich et al., "Use of methylphenidate and reporting of valvular heart disease: Global pharmacovigilance analysis in children and adults," *Pharmacoepidemiology and Drug Safety*, 2024.
+- **The 54 were submitted by generic methylphenidate manufacturers** (Mylan, Strides, Aurobindo, Ranbaxy) within a two-month window (July–September 2024).
 - **All 57 are manufacturer expedited reports** — regulatory filings triggered by the publication, not independent clinical observations.
 - **53 of the 57 list methylphenidate specifically** (not amphetamine). The remaining 4 are Concerta (methylphenidate extended-release) and dexmethylphenidate.
 
-This is textbook **literature-stimulated reporting**. When a pharmacovigilance study is published flagging a potential signal, manufacturers are required by regulation to review their databases and submit any matching cases to the FDA. Those 57 reports are not 57 patients. The source study describes **23 cases** in VigiBase and a reporting odds ratio of 1.6 overall (2.7 in adults). Because several manufacturers each filed the same published cases, they entered FAERS under separate case numbers, which version-based deduplication cannot merge. In openFDA for the same months, the methylphenidate valve reports collapse to 22 distinct age and sex combinations. Counting 22 cases instead of 57 gives a PRR of about 31, and every one of them still comes from a single paper.
+This is textbook **literature-stimulated reporting**. When a pharmacovigilance study is published flagging a potential signal, manufacturers are required by regulation to review their databases and submit any matching cases to the FDA. Those 57 reports are not 57 patients. The source study describes **23 cases** in VigiBase and a reporting odds ratio of 1.6 overall (2.7 in adults). Because several manufacturers each filed the same published cases, they entered FAERS under separate case numbers, which version-based deduplication cannot merge. The 57 FAERS reports collapse to 23 distinct age and sex combinations, the same number as the cases in the paper. Counting 23 cases instead of 57 gives a PRR of about 34, and nearly all of them still come from a single paper.
 
 The underlying study (Ayme-Dietrich et al.) did find a statistical signal in the WHO's global VigiBase, but flagged it as **needing further investigation**, not as a confirmed causal association. The proposed mechanism — indirect serotonergic effects from catecholamine elevation — has **weak but not dismissible** biological plausibility. Methylphenidate is primarily dopaminergic/noradrenergic and lacks the direct 5-HT2B receptor agonism that drives the established fenfluramine/ergot valvulopathy pathway.
 
 Clinically, the cases show real pathology: mitral valve incompetence (24 cases), mitral valve prolapse (7), aortic valve incompetence (4). The patients were relatively young (median age 21, range 6–57). Two deaths occurred.
 
-**The bottom line:** This signal is real in the pharmacovigilance data but is not yet causally established. It requires dedicated epidemiological studies — ideally large cohort studies comparing valve disease incidence in methylphenidate users versus non-users, controlling for age, co-medications, and underlying conditions. What we can say with certainty is that the PRR of 80.5 dramatically overstates the clinical signal because of the concentrated batch of literature-stimulated reports.
+**The bottom line:** This signal is real in the pharmacovigilance data but is not yet causally established. It requires dedicated epidemiological studies — ideally large cohort studies comparing valve disease incidence in methylphenidate users versus non-users, controlling for age, co-medications, and underlying conditions. What we can say with certainty is that the PRR of 85.4 dramatically overstates the clinical signal because of the concentrated batch of literature-stimulated reports.
 
 **Cognitive effects** form a distinct cluster:
-- **Disturbance in attention** — 101 reports (PRR = 15.6)
-- **Brain fog** — 58 reports (PRR = 5.2)
-- **Somnolence** — 105 reports (PRR = 3.6)
+- **Disturbance in attention** — 101 reports (PRR = 16.6)
+- **Brain fog** — 57 reports (PRR = 5.5)
+- **Somnolence** — 102 reports (PRR = 3.7)
 
 The irony is notable: patients take these medications to improve attention, and a subset report worsened attention as an adverse effect — possibly during titration, medication switches, or withdrawal.
 
@@ -97,7 +97,7 @@ The irony is notable: patients take these medications to improve attention, and 
 
 ## Who Reports ADHD Adverse Events
 
-ADHD medications have the most balanced sex distribution of the three classes: **34% female, 34% male, 32% unknown**. This near-parity is notable given that ADHD is diagnosed in males at roughly 2:1 — suggesting either that female patients experience more adverse events per prescription, or that they are more likely to report.
+ADHD medications have the most balanced sex distribution of the three classes: **33% female, 34% male, 33% unknown**. This near-parity is notable given that ADHD is diagnosed in males at roughly 2:1 — suggesting either that female patients experience more adverse events per prescription, or that they are more likely to report.
 
 The age distribution skews young: **32% of reports with known age come from patients under 18**, the highest pediatric proportion of any class. Another 29% come from ages 18–34. This is a drug class where children are the primary patient population — and where parents are often the reporters.
 
@@ -112,11 +112,11 @@ ADHD medication adverse event data tells two stories simultaneously:
 
 **Story 1: The Access Crisis.** Over 20% of ADHD adverse event reports are about supply, affordability, and substitution — not pharmacology. The FAERS database was designed to capture drug safety signals, but patients have turned it into a chronicle of a system that cannot reliably deliver the medications they need. When "I can't get my medication" is the second most reported event for an entire drug class, the system has a problem that no pharmacovigilance algorithm can solve.
 
-**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 80.5) is a case study in pharmacovigilance methodology: all 57 reports trace to a single French publication and batch manufacturer filings, inflating the PRR far beyond the true clinical signal. The association is under investigation but not confirmed. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
+**Story 2: The Pharmacological Profile.** Among the actual side effects, psychiatric symptoms dominate — anxiety, insomnia, depression, irritability, aggression. The cardiac valve disease signal (PRR = 85.4) is a case study in pharmacovigilance methodology: 54 of the 57 reports trace to a single French publication and batch manufacturer filings, inflating the PRR far beyond the true clinical signal. The association is under investigation but not confirmed. The attention-related adverse events (disturbance in attention, brain fog) suggest a subset of patients whose symptoms worsen rather than improve, particularly during medication changes.
 
 **For clinicians:**
 - When a patient reports that their medication "stopped working," ask about generic substitution before changing the prescription
-- The cardiac valve disease signal (57 cases, all from one study) warrants monitoring but is not yet causally established — echocardiographic surveillance in long-term methylphenidate users may be prudent pending further research
+- The cardiac valve disease signal (57 reports, about 23 patients, nearly all from one study) warrants monitoring but is not yet causally established — echocardiographic surveillance in long-term methylphenidate users may be prudent pending further research
 - Psychiatric side effects (irritability, aggression, suicidal ideation) require proactive screening, especially in pediatric patients
 
 **For policymakers:**
@@ -130,10 +130,10 @@ ADHD medication adverse event data tells two stories simultaneously:
 
 **Data source:** FDA Adverse Event Reporting System (FAERS), Q3–Q4 2024.
 
-**Sample:** 3,273 unique cases where an ADHD medication was the primary suspect drug. Drugs identified by generic name (methylphenidate, amphetamine, dextroamphetamine, lisdexamfetamine, atomoxetine, guanfacine, clonidine) and brand names (Ritalin, Concerta, Adderall, Vyvanse, Strattera, Intuniv, Jornay, etc.).
+**Sample:** 3,088 unique cases where an ADHD medication was the primary suspect drug. Drugs identified by generic name (methylphenidate, amphetamine, dextroamphetamine, lisdexamfetamine, atomoxetine, guanfacine; methamphetamine excluded) and brand names (Ritalin, Concerta, Adderall, Vyvanse, Strattera, Intuniv, Jornay, etc.).
 
 **Disproportionality analysis:** PRR and ROR computed against the full FAERS database (784,523 cases). Signal threshold: PRR ≥ 2, χ² ≥ 4, n ≥ 3, lower 95% CI of PRR > 1.
 
-**Limitations:** FAERS is a spontaneous reporting system — cannot establish causation or incidence. The cohort in this version matched clonidine (mostly a blood-pressure drug in FAERS) and, through the substring "amphetamine", methamphetamine (mostly drug-abuse reports); `03_extract_cohorts.py` now excludes both, and the ADHD tables and figures are pending a rerun. The ADHD cohort is the smallest of the three classes (3,273 cases), limiting power to detect rare signals. Access-related reports (supply, affordability) are not traditional adverse events and may reflect reporting behavior rather than drug safety concerns. The stimulant shortage may have caused stimulated reporting of supply-related issues.
+**Limitations:** FAERS is a spontaneous reporting system — cannot establish causation or incidence. An earlier version of the cohort (3,273 cases) included 148 clonidine cases (mostly a blood-pressure drug in FAERS) and 37 methamphetamine cases matched through the substring "amphetamine"; both are now excluded. Guanfacine remains and is also used for blood pressure. The ADHD cohort is the smallest of the three classes (3,088 cases), limiting power to detect rare signals. Access-related reports (supply, affordability) are not traditional adverse events and may reflect reporting behavior rather than drug safety concerns. The stimulant shortage may have caused stimulated reporting of supply-related issues.
 
 **Tools:** Python 3.14, DuckDB, pandas, scipy, matplotlib, seaborn.
